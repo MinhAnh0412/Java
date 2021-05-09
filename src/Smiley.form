@@ -61,7 +61,8 @@
                       <Component id="historybutton" alignment="0" max="32767" attributes="0"/>
                       <Component id="vietbutton" alignment="0" max="32767" attributes="0"/>
                       <Component id="jButton2" alignment="0" max="32767" attributes="0"/>
-                      <Component id="jButton3" alignment="0" min="-2" pref="128" max="-2" attributes="0"/>
+                      <Component id="jButton3" alignment="1" pref="128" max="32767" attributes="0"/>
+                      <Component id="ExitButton" alignment="0" max="32767" attributes="0"/>
                   </Group>
                   <EmptySpace pref="107" max="32767" attributes="0"/>
               </Group>
@@ -86,7 +87,9 @@
                   <Component id="historybutton" min="-2" pref="31" max="-2" attributes="0"/>
                   <EmptySpace type="separate" max="-2" attributes="0"/>
                   <Component id="irregularbutton" min="-2" pref="31" max="-2" attributes="0"/>
-                  <EmptySpace pref="143" max="32767" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="ExitButton" min="-2" pref="31" max="-2" attributes="0"/>
+                  <EmptySpace pref="94" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -122,7 +125,7 @@
             <Component class="javax.swing.JLabel" name="jLabel1">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\DELL\Pictures\ocean dictionary\Smiley\Smiley.png"/>
+                  <Image iconType="3" name="/Smiley.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="jLabel1"/>
               </Properties>
@@ -181,7 +184,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\DELL\Pictures\ocean dictionary\Smiley\Smiley search icon.png"/>
+              <Image iconType="3" name="/Smiley search icon.png"/>
             </Property>
             <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
               <Border info="org.netbeans.modules.form.compat2.border.EmptyBorderInfo">
@@ -208,6 +211,14 @@
             </Property>
             <Property name="text" type="java.lang.String" value="Irregular verbs"/>
           </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="ExitButton">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="EXIT"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ExitButtonActionPerformed"/>
+          </Events>
         </Component>
       </SubComponents>
     </Container>

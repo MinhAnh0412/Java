@@ -41,7 +41,7 @@ public class Englishsearch extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(247, 148, 29));
 
-        backbutton.setIcon(new javax.swing.ImageIcon("C:\\Users\\DELL\\Pictures\\ocean dictionary\\Smiley\\back button.png")); // NOI18N
+        backbutton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/back button.png"))); // NOI18N
         backbutton.setName("backbutton"); // NOI18N
         backbutton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -93,9 +93,7 @@ public class Englishsearch extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addComponent(Englishsearch, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 115, Short.MAX_VALUE))
+            .addComponent(Englishsearch, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -107,9 +105,13 @@ public class Englishsearch extends javax.swing.JFrame {
 
     private void backbuttonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_backbuttonActionPerformed
         // TODO add your handling code here:
-        JFrame frame0 = new JFrame();
-        frame0.setVisible(true);
-        this.dispose();
+        //JFrame frame0 = new JFrame();
+        //frame0.setVisible(true);
+        //this.dispose();
+        Smiley mainform = new Smiley();
+        mainform.setVisible(true);
+        setVisible(false);
+        dispose();
     }//GEN-LAST:event_backbuttonActionPerformed
 
     /**

@@ -28,7 +28,7 @@ public class History extends javax.swing.JFrame {
 
         jPanel1 = new javax.swing.JPanel();
         jPanel2 = new javax.swing.JPanel();
-        backbutton2 = new javax.swing.JButton();
+        BackHistoryBtn = new javax.swing.JButton();
         jLabel1 = new javax.swing.JLabel();
         jScrollPane1 = new javax.swing.JScrollPane();
         jTextArea1 = new javax.swing.JTextArea();
@@ -39,7 +39,12 @@ public class History extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(247, 148, 29));
 
-        backbutton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\DELL\\Pictures\\ocean dictionary\\Smiley\\back button.png")); // NOI18N
+        BackHistoryBtn.setIcon(new javax.swing.ImageIcon("C:\\Users\\DELL\\Pictures\\ocean dictionary\\Smiley\\back button.png")); // NOI18N
+        BackHistoryBtn.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                BackHistoryBtnActionPerformed(evt);
+            }
+        });
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
@@ -51,7 +56,7 @@ public class History extends javax.swing.JFrame {
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel2Layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(backbutton2, javax.swing.GroupLayout.PREFERRED_SIZE, 22, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(BackHistoryBtn, javax.swing.GroupLayout.PREFERRED_SIZE, 22, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jLabel1)
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
@@ -62,7 +67,7 @@ public class History extends javax.swing.JFrame {
                 .addContainerGap()
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                     .addComponent(jLabel1)
-                    .addComponent(backbutton2, javax.swing.GroupLayout.PREFERRED_SIZE, 17, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(BackHistoryBtn, javax.swing.GroupLayout.PREFERRED_SIZE, 17, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addContainerGap(62, Short.MAX_VALUE))
         );
 
@@ -103,6 +108,14 @@ public class History extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+    private void BackHistoryBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BackHistoryBtnActionPerformed
+        // TODO add your handling code here:
+        Smiley mainform = new Smiley();
+        mainform.setVisible(true);
+        setVisible(false);
+        dispose();
+    }//GEN-LAST:event_BackHistoryBtnActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -139,7 +152,7 @@ public class History extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton backbutton2;
+    private javax.swing.JButton BackHistoryBtn;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;

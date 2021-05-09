@@ -40,6 +40,7 @@ public class Smiley extends javax.swing.JFrame {
         searchbutton2 = new javax.swing.JButton();
         historybutton = new javax.swing.JButton();
         irregularbutton = new javax.swing.JButton();
+        ExitButton = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(230, 231, 232));
@@ -48,7 +49,7 @@ public class Smiley extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(247, 148, 29));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\DELL\\Pictures\\ocean dictionary\\Smiley\\Smiley.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Smiley.png"))); // NOI18N
         jLabel1.setText("jLabel1");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
@@ -88,7 +89,7 @@ public class Smiley extends javax.swing.JFrame {
         });
 
         searchbutton2.setBackground(new java.awt.Color(255, 255, 255));
-        searchbutton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\DELL\\Pictures\\ocean dictionary\\Smiley\\Smiley search icon.png")); // NOI18N
+        searchbutton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Smiley search icon.png"))); // NOI18N
         searchbutton2.setBorder(javax.swing.BorderFactory.createEmptyBorder(1, 1, 1, 1));
         searchbutton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -101,6 +102,13 @@ public class Smiley extends javax.swing.JFrame {
 
         irregularbutton.setBackground(new java.awt.Color(255, 255, 255));
         irregularbutton.setText("Irregular verbs");
+
+        ExitButton.setText("EXIT");
+        ExitButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                ExitButtonActionPerformed(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -120,7 +128,8 @@ public class Smiley extends javax.swing.JFrame {
                     .addComponent(historybutton, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(vietbutton, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jButton2, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jButton3, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.PREFERRED_SIZE, 128, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(jButton3, javax.swing.GroupLayout.DEFAULT_SIZE, 128, Short.MAX_VALUE)
+                    .addComponent(ExitButton, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addContainerGap(107, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
@@ -141,7 +150,9 @@ public class Smiley extends javax.swing.JFrame {
                 .addComponent(historybutton, javax.swing.GroupLayout.PREFERRED_SIZE, 31, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
                 .addComponent(irregularbutton, javax.swing.GroupLayout.PREFERRED_SIZE, 31, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(143, Short.MAX_VALUE))
+                .addGap(18, 18, 18)
+                .addComponent(ExitButton, javax.swing.GroupLayout.PREFERRED_SIZE, 31, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(94, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -169,6 +180,11 @@ public class Smiley extends javax.swing.JFrame {
         frame1.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_searchbutton2ActionPerformed
+
+    private void ExitButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ExitButtonActionPerformed
+        // TODO add your handling code here:
+        System.exit(0);
+    }//GEN-LAST:event_ExitButtonActionPerformed
 
     /**
      * @param args the command line arguments
@@ -207,6 +223,7 @@ public class Smiley extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton ExitButton;
     private javax.swing.JButton historybutton;
     private javax.swing.JButton irregularbutton;
     private javax.swing.JButton jButton2;
