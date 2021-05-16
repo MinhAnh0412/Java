@@ -1,0 +1,363 @@
+	This is the English-Vietnamese dictionary
+abide	         abode/abided	          abode/abided	             lưu trú, lưu lại
+arise	         arose	          arisen	             phát sinh	
+awake	         awoke	          awoken	             đánh thức, thức
+backslide	         backslid	          backslidden/backslid	     tái phạm
+be	         was/were	          been	                     thì, là, bị, ở
+bear	         bore	                           borne	             mang, chịu đựng
+beat	         beat	                           beaten/beat	             đánh, đập
+become	         became	          become	             trở nên
+befall	         befell	          befallen	             xảy đến
+begin	         began	          begun	             bắt đầu
+behold	         beheld	          beheld	             ngắm nhìn
+bend	         bent	                           bent	                              bẻ cong
+beset	         beset	          beset	             bao quanh
+bespeak	         bespoke	          bespoken	             chứng tỏ
+bet	         bet/betted	          bet/betted 	             đánh cược, cá cược
+bid	         bid	                           bid	                              trả giá
+bind	         bound	          bound	             buộc, trói
+bite	         bit	                           bitten	             cắn
+bleed	         bled	                           bled	                               chảy máu
+blow	         blew	                           blown	             thổi
+break	         broke	          broken	             đập vỡ
+breed	         bred	                           bred	                     nuôi, dạy dỗ
+bring	         brought	          brought	             mang đến
+broadcast	         broadcast	                           broadcast	             phát thanh
+browbeat	         browbeat	                           browbeaten/browbeat	     hăm dọa
+build	         built	                           built	             xây dựng
+burn 	         burnt/burned	                   burnt/burned	             đốt, cháy
+burst	         burst	                           burst	             nổ tung, vỡ òa
+bust	         busted/bust	                   busted/bust	             làm bể, làm vỡ
+buy	         bought	                           bought	             mua
+cast	         cast	                           cast	                     ném, tung
+catch	         caught	                           caught	             bắt, chụp
+chide	         chid/chided	                   chid/chidden/chided	     mắng, chửi
+choose	         chose	                           chosen	             chọn, lựa
+cleave	         clove/cleft/cleaved	           cloven/cleft/cleaved	     chẻ, tách hai
+cleave	         clave	                           cleaved	             dính chặt
+cling	         clung	                           clung	             bám vào, dính vào
+clothe	         clothed/clad 	                   clothed/clad	             che phủ
+come	         came	                           come	                     đến, đi đến
+cost	         cost	                           cost	                     có giá là
+creep	         crept	                           crept 	             bò, trườn, lẻn
+crossbreed         crossbred	                   crossbred	             cho lai giống
+crow	         crew/crewed	                   crowed	             gáy (gà)
+cut	         cut	                           cut	                     cắt, chặt
+daydream	 daydreamed                        daydreamt                 nghĩ vẩn vơ, mơ mộng
+deal	         dealt	                           dealt	             giao thiệp
+dig	         dug	                           dug	                     đào
+disprove	 disproved	                   disproved/disproven 	     bác bỏ
+dive	         dove/dived	                   dived	             lặn, lao xuống
+do	         did	                           done	                     làm
+draw	         drew	                           drawn	             vẽ, kéo
+dream	         dreamt/dreamed	                   dreamt/dreamed	     mơ thấy
+drink	         drank	                           drunk	             uống
+drive	         drove	                           driven	             lái xe
+dwell	         dwelt	                           dwelt	             trú ngụ, ở
+eat	         ate	                           eaten	             ăn
+	fall	         fell	                           fallen	             ngã, rơi
+	feed	         fed	                           fed	                     cho ăn, ăn, nuôi
+	feel	         felt	                           felt	                     cảm thấy
+	fight	         fought	                           fought	             chiến đấu
+	find	         found	                           found	             tìm thấy, thấy
+	fit	         fitted/fit	                   fitted/fit	             làm cho vừa, làm cho hợp
+	flee	         fled	                           fled	                     chạy trốn
+	fling	         flung	                           flung	             tung, quăng
+	fly	         flew	                           flown	             bay
+	forbear	         forbore	                   forborne	             nhịn
+	forbid	         forbade/forbad	                   forbidden	             cấm, cấm đoán
+	forecast	 forecast/forecasted	           forecast/forecasted	     tiên đoán
+	forego(also forgot)forewent	                   foregone	             bỏ, kiêng
+	foresee	         foresaw	                   forseen	             thấy trước
+	foretell	 foretold	                   foretold	             đoán trước
+	forget	         forgot	                           forgotten	             quên
+	forgive	         forgave	                   forgiven	             tha thứ
+	forsake	         forsook	                   forsaken	             ruồng bỏ
+	freeze	         froze	                           frozen	             (làm) đông lại
+	frostbite 	 frostbit	                   frostbitten	             bỏng lạnh
+	get	         got	                           got/gotten	             có được
+	gild	         gilt/gilded	                   gilt/gilded	             mạ vàng
+	gird	         girt/girded	                   girt/girded	             đeo vào
+	give	         gave	                           given	             cho
+	go	         went	                           gone	                     đi
+	grind	         ground	                           ground	             nghiền, xay
+	grow	         grew	                           grown	             mọc, trồng
+	hand-feed	 hand-fed	                   hand-fed	             cho ăn bằng tay
+	handwrite	 handwrote	                   handwritten	             viết tay
+	hang	         hung	                           hung	                     móc lên, treo lên
+	have	         had	                           had	                     có
+	hear	         heard	                           heard	             nghe
+	heave	         hove/heaved	                   hove/heaved	             trục lên
+	hew	         hewed	                           hewn/hewed	             chặt, đốn
+	hide	         hid	                           hidden	             giấu, trốn, nấp
+	hit	         hit	                           hit	                     đụng
+	hurt	         hurt	                           hurt	                     làm đau
+	inbreed	         inbred	                           inbred	             lai giống cận huyết
+	inlay	         inlaid	                           inlaid	             cẩn, khảm
+	input	         input	                           input	             đưa vào
+	inset	         inset	                           inset	             dát, ghép
+	interbreed	 interbred	                   interbred	             giao phối, lai giống
+	interweave	 interwove                         interweaved               trộn lẫn, xen lẫn
+	interwind	 interwound	                   interwound	             cuộn vào, quấn vào
+	jerry-build	 jerry-built	                   jerry-built	             xây dựng cẩu thả
+	keep	         kept	                           kept	                     giữ
+	kneel	         knelt/kneeled	                   knelt/kneeled	     quỳ
+	knit	         knit/knitted	                   knit/knitted	             đan
+	know	         knew	                           known	             biết, quen biết
+	lay	         laid	                           laid	                     đặt, để
+	lead	         led	                           led	                     dẫn dắt, lãnh đạo
+	lean	         leaned/leant 	                   leaned/leant 	     dựa, tựa
+	leap	         leapt	                           leapt	             nhảy, nhảy qua
+	learn	         learnt/learned	                   learnt/learned	     học, được biết
+	leave	         left	                           left	                     ra đi, để lại
+	lend	         lent	                           lent	                     cho mượn
+	let	         let	                           let	                     cho phép, để cho
+	lie	         lay	                           lain 	             nằm
+	light	         lit/lighted	                   lit/lighted	             thắp sáng
+	lip-read	 lip-read	                   lip-read	             mấp máy môi
+	lose	         lost	                           lost                      làm mất, mất
+	make		 made				   made	                     chế tạo, sản xuất
+	mean	         meant	                           meant	             có nghĩa là
+	meet	         met	                           met	                     gặp mặt
+	miscast	         miscast	                   miscast	             chọn vai đóng không hợp
+	misdeal	         misdealt	                   misdealt	             chia lộn bài, chia bài sai
+	misdo	         misdid	                           misdone	             phạm lỗi
+	mishear	         misheard	                   misheard	             nghe nhầm
+	mislay	         mislaid	                   mislaid	             để lạc mất
+	mislead	         misled	                           misled	             làm lạc đường
+	mislearn	 mislearned                        mislearnt                 học nhầm
+misread	         misread	                   misread	             đọc sai
+misset	         misset	                           misset 	             đặt sai chỗ
+misspeak	 misspoke	                   misspoken	             nói sai
+misspell	 misspelt	                   misspelt	             viết sai chính tả
+misspend	 misspent	                   misspent	             tiêu phí, bỏ phí
+mistake	         mistook	                   mistaken	             phạm lỗi, lầm lẫn
+misteach	 mistaught	                   mistaught	             dạy sai
+misunderstand	 misunderstood	                   misunderstood	     hiểu lầm
+miswrite	 miswrote	                   miswritten	             viết sai
+mow	         mowed	                           mown/mowed	             cắt cỏ
+offset	         offset	                           offset	             đền bù
+outbid	         outbid	                           outbid	             trả hơn giá
+outbreed	 outbred	                   outbred	             giao phối xa
+outdo	         outdid	                           outdone	             làm giỏi hơn
+outdraw	         outdrew	                   outdrawn	             rút súng ra nhanh hơn
+outdrink	 outdrank	                   outdrunk	             uống quá chén
+outdrive	 outdrove	                   outdriven	             lái nhanh hơn
+outfight	 outfought	                   outfought	             đánh giỏi hơn
+outfly	         outflew	                   outflown	             bay cao/xa hơn
+outgrow	         outgrew	                   outgrown	             lớn nhanh hơn
+outleap	         outleaped/outleapt 	           outleaped/outleapt	     nhảy cao/xa hơn
+outlie	         outlied	                   outlied	             nói dối
+output	         output	                           output	             cho ra (dữ kiện)
+outride	         outrode	                   outridden	             cưỡi ngựa giỏi hơn
+outrun	         outran	                           outrun	             chạy nhanh hơn, vượt giá
+outsell	         outsold	                   outsold	             bán nhanh hơn
+outshine	 outshined/outshone 	           outshined/outshone	     sáng hơn, rạng rỡ hơn
+outshoot	 outshot	                   outshot 	             bắn giỏi hơn, nảy mầm, mọc
+outsing	         outsang	                   outsung	             hát hay hơn
+outsit	         outsat	                           outsat	             ngồi lâu hơn
+outsleep	 outslept	                   outslept	             ngủ lâu/muộn hơn
+outsmell	 outsmelled/outsmelt 	           outsmelled/outsmelt	     khám phá, đánh hơi, sặc mùi
+outspeak	 outspoke	                   outspoken 	             nói nhiều/dài/to hơn
+outspeed	 outsped	                   outsped	             đi/chạy nhanh hơn
+outspend	 outspent	                   outspent	             tiêu tiền nhiều hơn
+outswear	 outswore	                   outsworn	             nguyền rủa nhiều hơn
+outswim	         outswam	                   outswum	             bơi giỏi hơn
+outthink	 outthought	                   outthought	             suy nghĩ nhanh hơn
+outthrow	 outthrew	                   outthrown	             ném nhanh hơn
+outwrite	 outwrote	                   outwritten	             viết nhanh hơn
+overbid	         overbid	                   overbid	             trả giá/bỏ thầu cao hơn
+overbreed	 overbred	                   overbred	             nuôi quá nhiều
+overbuild	 overbuilt	                   overbuilt	             xây quá nhiều
+overbuy	         overbought	                   overbought	             mua quá nhiều
+overcome	 overcame	                   overcome	             khắc phục
+overdo	         overdid	                   overdone	             dùng quá mức, làm quá
+overdraw	 overdrew	                   overdrawn	             rút quá số tiền, phóng đại
+overdrink	 overdrank	                   overdrunk	             uống quá nhiều
+overeat	         overate	                   overeaten	             ăn quá nhiều
+overfeed	 overfed	                   overfed	             cho ăn quá mức
+overfly	         overflew	                   overflown	             bay qua
+overhang	 overhung	                   overhung	             nhô lên trên, treo lơ lửng
+overhear	 overheard	                   overheard	             nghe trộm
+overlay	         overlaid	                   overlaid 	             phủ lên
+overpay	         overpaid	                   overpaid	             trả quá tiền
+override	 overrode	                   overridden	             lạm quyền
+overrun	         overran	                   overrun	             tràn ngập
+oversee	         oversaw	                   overseen	             trông nom
+oversell	 oversold	                   oversold	             bán quá mức
+oversew	         oversewed	                   oversewn/oversewed	     may nối vắt
+overshoot	 overshot	                   overshot	             đi quá đích
+oversleep	 overslept	                   overslept	             ngủ quên
+overspeak	 overspoke	                   overspoken	             Nói quá nhiều, nói lấn át
+overspend	 overspent	                   overspent	             tiêu quá lố
+overspill	 overspilled/overspilt	           overspilled/overspilt     đổ, làm tràn
+overtake	 overtook	                   overtaken	             đuổi bắt kịp
+overthink	 overthought	                   overthought	             tính trước nhiều quá
+overthrow	 overthrew	                   overthrown	             lật đổ
+overwind	 overwound	                   overwound	             lên dây (đồng hồ) quá chặt
+overwrite	 overwrote	                   overwritten	             viết dài quá, viết đè lên
+partake	         partook	                   partaken	             tham gia, dự phần
+pay	         paid	                           paid	                     trả (tiền)
+plead	         pleaded/pled	                   pleaded/pled	             bào chữa, biện hộ
+prebuild	 prebuilt	                   prebuilt	             làm nhà tiền chế
+predo	         predid	                           predone	             làm trước
+premake	         premade	                   premade	             làm trước
+prepay	         prepaid	                   prepaid	             trả trước
+presell	         presold	                   presold	             bán trước thời gian rao báo
+preset	         preset	                           preset	             thiết lập sẵn, cài đặt sẵn
+preshrink	 preshrank	                   preshrunk	             ngâm cho vải co trước khi may
+proofread	 proofread	                   proofread	             Đọc bản thảo trước khi in
+prove	         proved	                           proven/proved	     chứng minh
+put	         put	                           put	                     đặt, để
+quick-freeze	quick-froze	                   quick-frozen	             kết đông nhanh
+quit	        quit/quitted 	                   quit/quitted	             bỏ
+read	        read 	                           read	                     đọc
+reawake	        reawoke	                           reawaken	             đánh thức 1 lần nữa
+rebid	        rebid	                           rebid	             trả giá, bỏ thầu
+rebind	        rebound	                           rebound	             buộc lại, đóng lại
+rebroadcast	rebroadcast                        rebroadcasted             cự tuyệt, khước từ
+rebuild	        rebuilt	                           rebuilt	             xây dựng lại
+recast	        recast	                           recast	             đúc lại
+recut	        recut	                           recut	             cắt lại, băm
+redeal	        redealt	                           redealt	             phát bài lại
+redo	        redid	                           redone	             làm lại
+redraw	        redrew	                           redrawn	             kéo ngược lại
+refit	        refitted/refit 	                   refitted/refit	     luồn, xỏ
+regrind	        reground	                   reground	             mài sắc lại
+regrow	        regrew	                           regrown	             trồng lại
+rehang	        rehung	                           rehung	             treo lại
+rehear	        reheard	                           reheard	             nghe trình bày lại 
+reknit	        reknitted/reknit	           reknitted/reknit	     đan lại
+relay	        relaid	                           relaid	             đặt lại
+relay 	        relayed	                           relayed	             truyền âm lại
+relearn	        relearned/relearnt	           relearned/relearnt 	     học lại
+	relight	        relit/relighted	                   relit/relighted	     thắp sáng lại
+	remake	        remade	                           remade	             làm lại, chế tạo lại
+	rend	        rent	                           rent	                     toạc ra, xé
+	repay	        repaid	                           repaid	             hoàn tiền lại
+	reread	        reread	                           reread	             đọc lại
+	rerun	        reran	                           rerun	             chiếu lại, phát lại
+	resell	        resold	                           resold	             bán lại
+	resend	        resent	                           resent	             gửi lại 
+	reset	        reset	                           reset	             đặt lại, lắp lại
+	resew	        resewed                   	   resewn/resewed	     may/khâu lại
+	retake	        retook	                           retaken	             chiếm lại,tái chiếm
+	reteach	        retaught	                   retaught	             dạy lại
+	retear	        retore	                           retorn	             khóc lại
+	retell	        retold	                           retold	             kể lại
+	rethink	        rethought	                   rethought	             suy tính lại
+	retread	        retread	                           retread	             lại giẫm/đạp lên
+	retrofit	retrofitted/retrofit 	           retrofitted/retrofit      trang bị thêm những bộ phận mới
+	rewake	        rewoke/rewaked	                   rewaken/rewaked 	     đánh thức lại
+	rewear	        rewore	                           reworn	             mặc lại
+	reweave	        rewove/reweaved	                   rewoven/reweaved	     dệt lại
+	rewed	        rewed/rewedded	                   rewed/rewedded	     kết hôn lại
+	rewet	        rewet/rewetted 	                   rewet/rewetted	     làm ướt lại
+	rewin	        rewon	                           rewon	             thắng lại
+	rewind	        rewound	                           rewound	             cuốn lại, lên dây lại
+	rewrite	        rewrote	                           rewritten	             viết lại
+	rid	        rid	                           rid	                     giải thoát
+	ride	        rode	                           ridden	             cưỡi
+	ring	        rang	                           rung	                     rung chuông
+	rise	        rose	                           risen	             đứng dậy, mọc
+	roughcast	roughcast	                   roughcast	             tạo hình phỏng chừng 
+	run	        ran	                           run	                     chạy
+	sand-cast	sand-cast	                   sand-cast	             đúc bằng khuôn cát
+	saw	        sawed	                           sawn	                     cưa
+	say	        said	                           said	                     nói
+	see	        saw	                           seen	                     nhìn thấy
+	seek	        sought	                           sought	             tìm kiếm
+	sell	        sold	                           sold	                     bán
+	send	        sent	                           sent	                     gửi
+	set	        set	                           set	                     đặt, thiết lập
+	sew	        sewed	                           sewn/sewed	             may
+	shake	        shook	                           shaken	            lay, lắc
+	shave	        shaved	                           shaved/shaven	    cạo (râu, mặt)
+	shear	        sheared	                           shorn	            xén lông (cừu)
+	shed	        shed	                           shed	                    rơi, rụng
+	shine	        shone	                           shone	            chiếu sáng
+	shit	        shit/shat/shitted	           shit/shat/shitted	    suộc khuộng đi đại tiện
+	shoot	        shot	                           shot	                    bắn
+	show	        showed	                           shown/showed	            cho xem
+	shrink	        shrank	                           shrunk	            co rút
+	shut	        shut	                           shut	                    đóng lại
+	sight-read	sight-read	                   sight-read	            chơi hoặc hát mà không cần nghiên cứu trước
+	sing	        sang	                           sung	                    ca hát
+	sink	        sank	                           sunk	                    chìm, lặn
+	sit	        sat	                           sat	                    ngồi
+	slay	        slew	                           slain	            sát hại, giết hại
+	sleep	        slept	                           slept	            ngủ
+	slide	        slid	                           slid	                    trượt, lướt
+	sling	        slung	                           slung	            ném mạnh
+	slink	        slunk	                           slunk	            lẻn đi
+	slit	        slit	                           slit	                    rạch, khứa
+	smell	        smelt	                           smelt	            ngửi
+	smite	        smote	                           smitten	            đập mạnh
+	sneak	        sneaked/snuck	                   sneaked/snuck	    trốn, lén
+	speak	        spoke	                           spoken	            nói
+	speed	        sped/speeded	                   sped/speeded	            chạy vụt
+	spell 	        spelt/spelled	                   spelt/spelled	    đánh vần
+	spend	        spent	                           spent	            tiêu xài
+	spill	        spilt/spilled	                   spilt/spilled	    tràn, đổ ra
+	spin	        spun/span	                   spun 	            quay sợi
+	spoil	        spoilt/spoiled	                   spoilt/spoiled	    làm hỏng
+	spread	        spread	                           spread	            lan truyền
+	stand	        stood	                           stood	            đứng
+	steal	        stole	                           stolen	            đánh cắp
+	stick	        stuck	                           stuck	            ghim vào, đính
+	sting	        stung	                           stung	            châm, chích, đốt
+	stink	        stunk/stank	                   stunk	            bốc mùi hôi
+	stride	        strode	                           stridden	            bước sải
+	strike	        struck	                           struck	            đánh đập
+	string	        strung	                           strung	            gắn dây vào
+	sunburn	        sunburned/sunburnt 	           sunburned/sunburnt	    cháy nắng
+	swear	        swore	                           sworn	            tuyên thệ
+	sweat	        sweat/sweated	                   sweat/sweated 	    đổ mồ hôi
+	sweep	        swept	                           swept	            quét
+	swell	        swelled	                           swollen/swelled	    phồng, sưng
+	swim	        swam	                           swum	                    bơi lội
+	swing	        swung	                           swung	            đong đưa
+	take	        took	                           taken	            cầm, lấy
+	teach	        taught                         	   taught                   dạy, giảng dạy
+	tear	        tore	                           torn	                    xé, rách
+	telecast	telecast	                   telecast	            phát đi bằng truyền hình
+	tell	        told	                           told	                    kể, bảo
+	think	        thought	                           thought	            suy nghĩ
+	throw	        threw	                           thrown	            ném, liệng
+	thrust	        thrust	                           thrust	            thọc, nhấn
+	tread	        trod	                           trodden/trod	            giẫm, đạp
+	typewrite	typewrote	                   typewritten	            đánh máy
+	unbend	        unbent	                           unbent	            làm thẳng lại
+	unbind	        unbound	                           unbound	            mở, tháo ra
+	unclothe	unclothed/unclad 	           unclothed/unclad	    cởi áo, lột trần
+	undercut	undercut	                   undercut	            ra giá rẻ hơn
+	underfeed	underfed	                   underfed	            cho ăn đói, thiếu ăn
+	undergo	        underwent	                   undergone	            kinh qua
+	underlie	underlay	                   underlain	            nằm dưới
+	understand	understood	                   understood	            hiểu
+	undertake	undertook	                   undertaken	            đảm nhận
+	underwrite	underwrote	                   underwritten	            bảo hiểm
+	undo	        undid	                           undone	            tháo ra
+	unfreeze	unfroze	                           unfrozen	            làm tan đông
+	unhang	        unhung	                           unhung	            hạ xuống, bỏ xuống
+	unhide	        unhid	                           unhidden	            hiển thị, không ẩn
+unlearn	        unlearned/unlearnt 	           unlearned/unlearnt	    gạt bỏ, quên
+unspin	        unspun	                           unspun	            quay ngược          
+unwind	        unwound	                           unwound	            tháo ra
+uphold	        upheld	                           upheld	            ủng hộ
+upset	        upset	                           upset	            đánh đổ, lật đổ
+wake	        woke/waked	                   woken/waked	            thức giấc
+wear	        wore	                           worn	                    mặc
+wed	        wed/wedded	                   wed/wedded	            kết hôn
+weep	        wept	                           wept	                    khóc
+wet	        wet/wetted	                   wet/wetted	            làm ướt
+win	        won	                           won	                    thắng, chiến thắng
+wind	        wound	                           wound	            quấn
+withdraw	withdrew	                   withdrawn	            rút lui
+withhold	withheld	                   withheld	            từ khước
+withstand	withstood	                   withstood	            cầm cự
+work	        worked	                           worked	            rèn, nhào nặn đất
+wring	        wrung	                           wrung	            vặn, siết chặt
+write	        wrote	                           written	            viết
+
+
