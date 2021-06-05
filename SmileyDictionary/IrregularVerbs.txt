@@ -1,363 +1,363 @@
-	This is the English-Vietnamese dictionary
-abide	         abode/abided	          abode/abided	             lưu trú, lưu lại
-arise	         arose	          arisen	             phát sinh	
-awake	         awoke	          awoken	             đánh thức, thức
-backslide	         backslid	          backslidden/backslid	     tái phạm
-be	         was/were	          been	                     thì, là, bị, ở
-bear	         bore	                           borne	             mang, chịu đựng
-beat	         beat	                           beaten/beat	             đánh, đập
-become	         became	          become	             trở nên
-befall	         befell	          befallen	             xảy đến
-begin	         began	          begun	             bắt đầu
-behold	         beheld	          beheld	             ngắm nhìn
-bend	         bent	                           bent	                              bẻ cong
-beset	         beset	          beset	             bao quanh
-bespeak	         bespoke	          bespoken	             chứng tỏ
-bet	         bet/betted	          bet/betted 	             đánh cược, cá cược
-bid	         bid	                           bid	                              trả giá
-bind	         bound	          bound	             buộc, trói
-bite	         bit	                           bitten	             cắn
-bleed	         bled	                           bled	                               chảy máu
-blow	         blew	                           blown	             thổi
-break	         broke	          broken	             đập vỡ
-breed	         bred	                           bred	                     nuôi, dạy dỗ
-bring	         brought	          brought	             mang đến
-broadcast	         broadcast	                           broadcast	             phát thanh
-browbeat	         browbeat	                           browbeaten/browbeat	     hăm dọa
-build	         built	                           built	             xây dựng
-burn 	         burnt/burned	                   burnt/burned	             đốt, cháy
-burst	         burst	                           burst	             nổ tung, vỡ òa
-bust	         busted/bust	                   busted/bust	             làm bể, làm vỡ
-buy	         bought	                           bought	             mua
-cast	         cast	                           cast	                     ném, tung
-catch	         caught	                           caught	             bắt, chụp
-chide	         chid/chided	                   chid/chidden/chided	     mắng, chửi
-choose	         chose	                           chosen	             chọn, lựa
-cleave	         clove/cleft/cleaved	           cloven/cleft/cleaved	     chẻ, tách hai
-cleave	         clave	                           cleaved	             dính chặt
-cling	         clung	                           clung	             bám vào, dính vào
-clothe	         clothed/clad 	                   clothed/clad	             che phủ
-come	         came	                           come	                     đến, đi đến
-cost	         cost	                           cost	                     có giá là
-creep	         crept	                           crept 	             bò, trườn, lẻn
-crossbreed         crossbred	                   crossbred	             cho lai giống
-crow	         crew/crewed	                   crowed	             gáy (gà)
-cut	         cut	                           cut	                     cắt, chặt
-daydream	 daydreamed                        daydreamt                 nghĩ vẩn vơ, mơ mộng
-deal	         dealt	                           dealt	             giao thiệp
-dig	         dug	                           dug	                     đào
-disprove	 disproved	                   disproved/disproven 	     bác bỏ
-dive	         dove/dived	                   dived	             lặn, lao xuống
-do	         did	                           done	                     làm
-draw	         drew	                           drawn	             vẽ, kéo
-dream	         dreamt/dreamed	                   dreamt/dreamed	     mơ thấy
-drink	         drank	                           drunk	             uống
-drive	         drove	                           driven	             lái xe
-dwell	         dwelt	                           dwelt	             trú ngụ, ở
-eat	         ate	                           eaten	             ăn
-	fall	         fell	                           fallen	             ngã, rơi
-	feed	         fed	                           fed	                     cho ăn, ăn, nuôi
-	feel	         felt	                           felt	                     cảm thấy
-	fight	         fought	                           fought	             chiến đấu
-	find	         found	                           found	             tìm thấy, thấy
-	fit	         fitted/fit	                   fitted/fit	             làm cho vừa, làm cho hợp
-	flee	         fled	                           fled	                     chạy trốn
-	fling	         flung	                           flung	             tung, quăng
-	fly	         flew	                           flown	             bay
-	forbear	         forbore	                   forborne	             nhịn
-	forbid	         forbade/forbad	                   forbidden	             cấm, cấm đoán
-	forecast	 forecast/forecasted	           forecast/forecasted	     tiên đoán
-	forego(also forgot)forewent	                   foregone	             bỏ, kiêng
-	foresee	         foresaw	                   forseen	             thấy trước
-	foretell	 foretold	                   foretold	             đoán trước
-	forget	         forgot	                           forgotten	             quên
-	forgive	         forgave	                   forgiven	             tha thứ
-	forsake	         forsook	                   forsaken	             ruồng bỏ
-	freeze	         froze	                           frozen	             (làm) đông lại
-	frostbite 	 frostbit	                   frostbitten	             bỏng lạnh
-	get	         got	                           got/gotten	             có được
-	gild	         gilt/gilded	                   gilt/gilded	             mạ vàng
-	gird	         girt/girded	                   girt/girded	             đeo vào
-	give	         gave	                           given	             cho
-	go	         went	                           gone	                     đi
-	grind	         ground	                           ground	             nghiền, xay
-	grow	         grew	                           grown	             mọc, trồng
-	hand-feed	 hand-fed	                   hand-fed	             cho ăn bằng tay
-	handwrite	 handwrote	                   handwritten	             viết tay
-	hang	         hung	                           hung	                     móc lên, treo lên
-	have	         had	                           had	                     có
-	hear	         heard	                           heard	             nghe
-	heave	         hove/heaved	                   hove/heaved	             trục lên
-	hew	         hewed	                           hewn/hewed	             chặt, đốn
-	hide	         hid	                           hidden	             giấu, trốn, nấp
-	hit	         hit	                           hit	                     đụng
-	hurt	         hurt	                           hurt	                     làm đau
-	inbreed	         inbred	                           inbred	             lai giống cận huyết
-	inlay	         inlaid	                           inlaid	             cẩn, khảm
-	input	         input	                           input	             đưa vào
-	inset	         inset	                           inset	             dát, ghép
-	interbreed	 interbred	                   interbred	             giao phối, lai giống
-	interweave	 interwove                         interweaved               trộn lẫn, xen lẫn
-	interwind	 interwound	                   interwound	             cuộn vào, quấn vào
-	jerry-build	 jerry-built	                   jerry-built	             xây dựng cẩu thả
-	keep	         kept	                           kept	                     giữ
-	kneel	         knelt/kneeled	                   knelt/kneeled	     quỳ
-	knit	         knit/knitted	                   knit/knitted	             đan
-	know	         knew	                           known	             biết, quen biết
-	lay	         laid	                           laid	                     đặt, để
-	lead	         led	                           led	                     dẫn dắt, lãnh đạo
-	lean	         leaned/leant 	                   leaned/leant 	     dựa, tựa
-	leap	         leapt	                           leapt	             nhảy, nhảy qua
-	learn	         learnt/learned	                   learnt/learned	     học, được biết
-	leave	         left	                           left	                     ra đi, để lại
-	lend	         lent	                           lent	                     cho mượn
-	let	         let	                           let	                     cho phép, để cho
-	lie	         lay	                           lain 	             nằm
-	light	         lit/lighted	                   lit/lighted	             thắp sáng
-	lip-read	 lip-read	                   lip-read	             mấp máy môi
-	lose	         lost	                           lost                      làm mất, mất
-	make		 made				   made	                     chế tạo, sản xuất
-	mean	         meant	                           meant	             có nghĩa là
-	meet	         met	                           met	                     gặp mặt
-	miscast	         miscast	                   miscast	             chọn vai đóng không hợp
-	misdeal	         misdealt	                   misdealt	             chia lộn bài, chia bài sai
-	misdo	         misdid	                           misdone	             phạm lỗi
-	mishear	         misheard	                   misheard	             nghe nhầm
-	mislay	         mislaid	                   mislaid	             để lạc mất
-	mislead	         misled	                           misled	             làm lạc đường
-	mislearn	 mislearned                        mislearnt                 học nhầm
-misread	         misread	                   misread	             đọc sai
-misset	         misset	                           misset 	             đặt sai chỗ
-misspeak	 misspoke	                   misspoken	             nói sai
-misspell	 misspelt	                   misspelt	             viết sai chính tả
-misspend	 misspent	                   misspent	             tiêu phí, bỏ phí
-mistake	         mistook	                   mistaken	             phạm lỗi, lầm lẫn
-misteach	 mistaught	                   mistaught	             dạy sai
-misunderstand	 misunderstood	                   misunderstood	     hiểu lầm
-miswrite	 miswrote	                   miswritten	             viết sai
-mow	         mowed	                           mown/mowed	             cắt cỏ
-offset	         offset	                           offset	             đền bù
-outbid	         outbid	                           outbid	             trả hơn giá
-outbreed	 outbred	                   outbred	             giao phối xa
-outdo	         outdid	                           outdone	             làm giỏi hơn
-outdraw	         outdrew	                   outdrawn	             rút súng ra nhanh hơn
-outdrink	 outdrank	                   outdrunk	             uống quá chén
-outdrive	 outdrove	                   outdriven	             lái nhanh hơn
-outfight	 outfought	                   outfought	             đánh giỏi hơn
-outfly	         outflew	                   outflown	             bay cao/xa hơn
-outgrow	         outgrew	                   outgrown	             lớn nhanh hơn
-outleap	         outleaped/outleapt 	           outleaped/outleapt	     nhảy cao/xa hơn
-outlie	         outlied	                   outlied	             nói dối
-output	         output	                           output	             cho ra (dữ kiện)
-outride	         outrode	                   outridden	             cưỡi ngựa giỏi hơn
-outrun	         outran	                           outrun	             chạy nhanh hơn, vượt giá
-outsell	         outsold	                   outsold	             bán nhanh hơn
-outshine	 outshined/outshone 	           outshined/outshone	     sáng hơn, rạng rỡ hơn
-outshoot	 outshot	                   outshot 	             bắn giỏi hơn, nảy mầm, mọc
-outsing	         outsang	                   outsung	             hát hay hơn
-outsit	         outsat	                           outsat	             ngồi lâu hơn
-outsleep	 outslept	                   outslept	             ngủ lâu/muộn hơn
-outsmell	 outsmelled/outsmelt 	           outsmelled/outsmelt	     khám phá, đánh hơi, sặc mùi
-outspeak	 outspoke	                   outspoken 	             nói nhiều/dài/to hơn
-outspeed	 outsped	                   outsped	             đi/chạy nhanh hơn
-outspend	 outspent	                   outspent	             tiêu tiền nhiều hơn
-outswear	 outswore	                   outsworn	             nguyền rủa nhiều hơn
-outswim	         outswam	                   outswum	             bơi giỏi hơn
-outthink	 outthought	                   outthought	             suy nghĩ nhanh hơn
-outthrow	 outthrew	                   outthrown	             ném nhanh hơn
-outwrite	 outwrote	                   outwritten	             viết nhanh hơn
-overbid	         overbid	                   overbid	             trả giá/bỏ thầu cao hơn
-overbreed	 overbred	                   overbred	             nuôi quá nhiều
-overbuild	 overbuilt	                   overbuilt	             xây quá nhiều
-overbuy	         overbought	                   overbought	             mua quá nhiều
-overcome	 overcame	                   overcome	             khắc phục
-overdo	         overdid	                   overdone	             dùng quá mức, làm quá
-overdraw	 overdrew	                   overdrawn	             rút quá số tiền, phóng đại
-overdrink	 overdrank	                   overdrunk	             uống quá nhiều
-overeat	         overate	                   overeaten	             ăn quá nhiều
-overfeed	 overfed	                   overfed	             cho ăn quá mức
-overfly	         overflew	                   overflown	             bay qua
-overhang	 overhung	                   overhung	             nhô lên trên, treo lơ lửng
-overhear	 overheard	                   overheard	             nghe trộm
-overlay	         overlaid	                   overlaid 	             phủ lên
-overpay	         overpaid	                   overpaid	             trả quá tiền
-override	 overrode	                   overridden	             lạm quyền
-overrun	         overran	                   overrun	             tràn ngập
-oversee	         oversaw	                   overseen	             trông nom
-oversell	 oversold	                   oversold	             bán quá mức
-oversew	         oversewed	                   oversewn/oversewed	     may nối vắt
-overshoot	 overshot	                   overshot	             đi quá đích
-oversleep	 overslept	                   overslept	             ngủ quên
-overspeak	 overspoke	                   overspoken	             Nói quá nhiều, nói lấn át
-overspend	 overspent	                   overspent	             tiêu quá lố
-overspill	 overspilled/overspilt	           overspilled/overspilt     đổ, làm tràn
-overtake	 overtook	                   overtaken	             đuổi bắt kịp
-overthink	 overthought	                   overthought	             tính trước nhiều quá
-overthrow	 overthrew	                   overthrown	             lật đổ
-overwind	 overwound	                   overwound	             lên dây (đồng hồ) quá chặt
-overwrite	 overwrote	                   overwritten	             viết dài quá, viết đè lên
-partake	         partook	                   partaken	             tham gia, dự phần
-pay	         paid	                           paid	                     trả (tiền)
-plead	         pleaded/pled	                   pleaded/pled	             bào chữa, biện hộ
-prebuild	 prebuilt	                   prebuilt	             làm nhà tiền chế
-predo	         predid	                           predone	             làm trước
-premake	         premade	                   premade	             làm trước
-prepay	         prepaid	                   prepaid	             trả trước
-presell	         presold	                   presold	             bán trước thời gian rao báo
-preset	         preset	                           preset	             thiết lập sẵn, cài đặt sẵn
-preshrink	 preshrank	                   preshrunk	             ngâm cho vải co trước khi may
-proofread	 proofread	                   proofread	             Đọc bản thảo trước khi in
-prove	         proved	                           proven/proved	     chứng minh
-put	         put	                           put	                     đặt, để
-quick-freeze	quick-froze	                   quick-frozen	             kết đông nhanh
-quit	        quit/quitted 	                   quit/quitted	             bỏ
-read	        read 	                           read	                     đọc
-reawake	        reawoke	                           reawaken	             đánh thức 1 lần nữa
-rebid	        rebid	                           rebid	             trả giá, bỏ thầu
-rebind	        rebound	                           rebound	             buộc lại, đóng lại
-rebroadcast	rebroadcast                        rebroadcasted             cự tuyệt, khước từ
-rebuild	        rebuilt	                           rebuilt	             xây dựng lại
-recast	        recast	                           recast	             đúc lại
-recut	        recut	                           recut	             cắt lại, băm
-redeal	        redealt	                           redealt	             phát bài lại
-redo	        redid	                           redone	             làm lại
-redraw	        redrew	                           redrawn	             kéo ngược lại
-refit	        refitted/refit 	                   refitted/refit	     luồn, xỏ
-regrind	        reground	                   reground	             mài sắc lại
-regrow	        regrew	                           regrown	             trồng lại
-rehang	        rehung	                           rehung	             treo lại
-rehear	        reheard	                           reheard	             nghe trình bày lại 
-reknit	        reknitted/reknit	           reknitted/reknit	     đan lại
-relay	        relaid	                           relaid	             đặt lại
-relay 	        relayed	                           relayed	             truyền âm lại
-relearn	        relearned/relearnt	           relearned/relearnt 	     học lại
-	relight	        relit/relighted	                   relit/relighted	     thắp sáng lại
-	remake	        remade	                           remade	             làm lại, chế tạo lại
-	rend	        rent	                           rent	                     toạc ra, xé
-	repay	        repaid	                           repaid	             hoàn tiền lại
-	reread	        reread	                           reread	             đọc lại
-	rerun	        reran	                           rerun	             chiếu lại, phát lại
-	resell	        resold	                           resold	             bán lại
-	resend	        resent	                           resent	             gửi lại 
-	reset	        reset	                           reset	             đặt lại, lắp lại
-	resew	        resewed                   	   resewn/resewed	     may/khâu lại
-	retake	        retook	                           retaken	             chiếm lại,tái chiếm
-	reteach	        retaught	                   retaught	             dạy lại
-	retear	        retore	                           retorn	             khóc lại
-	retell	        retold	                           retold	             kể lại
-	rethink	        rethought	                   rethought	             suy tính lại
-	retread	        retread	                           retread	             lại giẫm/đạp lên
-	retrofit	retrofitted/retrofit 	           retrofitted/retrofit      trang bị thêm những bộ phận mới
-	rewake	        rewoke/rewaked	                   rewaken/rewaked 	     đánh thức lại
-	rewear	        rewore	                           reworn	             mặc lại
-	reweave	        rewove/reweaved	                   rewoven/reweaved	     dệt lại
-	rewed	        rewed/rewedded	                   rewed/rewedded	     kết hôn lại
-	rewet	        rewet/rewetted 	                   rewet/rewetted	     làm ướt lại
-	rewin	        rewon	                           rewon	             thắng lại
-	rewind	        rewound	                           rewound	             cuốn lại, lên dây lại
-	rewrite	        rewrote	                           rewritten	             viết lại
-	rid	        rid	                           rid	                     giải thoát
-	ride	        rode	                           ridden	             cưỡi
-	ring	        rang	                           rung	                     rung chuông
-	rise	        rose	                           risen	             đứng dậy, mọc
-	roughcast	roughcast	                   roughcast	             tạo hình phỏng chừng 
-	run	        ran	                           run	                     chạy
-	sand-cast	sand-cast	                   sand-cast	             đúc bằng khuôn cát
-	saw	        sawed	                           sawn	                     cưa
-	say	        said	                           said	                     nói
-	see	        saw	                           seen	                     nhìn thấy
-	seek	        sought	                           sought	             tìm kiếm
-	sell	        sold	                           sold	                     bán
-	send	        sent	                           sent	                     gửi
-	set	        set	                           set	                     đặt, thiết lập
-	sew	        sewed	                           sewn/sewed	             may
-	shake	        shook	                           shaken	            lay, lắc
-	shave	        shaved	                           shaved/shaven	    cạo (râu, mặt)
-	shear	        sheared	                           shorn	            xén lông (cừu)
-	shed	        shed	                           shed	                    rơi, rụng
-	shine	        shone	                           shone	            chiếu sáng
-	shit	        shit/shat/shitted	           shit/shat/shitted	    suộc khuộng đi đại tiện
-	shoot	        shot	                           shot	                    bắn
-	show	        showed	                           shown/showed	            cho xem
-	shrink	        shrank	                           shrunk	            co rút
-	shut	        shut	                           shut	                    đóng lại
-	sight-read	sight-read	                   sight-read	            chơi hoặc hát mà không cần nghiên cứu trước
-	sing	        sang	                           sung	                    ca hát
-	sink	        sank	                           sunk	                    chìm, lặn
-	sit	        sat	                           sat	                    ngồi
-	slay	        slew	                           slain	            sát hại, giết hại
-	sleep	        slept	                           slept	            ngủ
-	slide	        slid	                           slid	                    trượt, lướt
-	sling	        slung	                           slung	            ném mạnh
-	slink	        slunk	                           slunk	            lẻn đi
-	slit	        slit	                           slit	                    rạch, khứa
-	smell	        smelt	                           smelt	            ngửi
-	smite	        smote	                           smitten	            đập mạnh
-	sneak	        sneaked/snuck	                   sneaked/snuck	    trốn, lén
-	speak	        spoke	                           spoken	            nói
-	speed	        sped/speeded	                   sped/speeded	            chạy vụt
-	spell 	        spelt/spelled	                   spelt/spelled	    đánh vần
-	spend	        spent	                           spent	            tiêu xài
-	spill	        spilt/spilled	                   spilt/spilled	    tràn, đổ ra
-	spin	        spun/span	                   spun 	            quay sợi
-	spoil	        spoilt/spoiled	                   spoilt/spoiled	    làm hỏng
-	spread	        spread	                           spread	            lan truyền
-	stand	        stood	                           stood	            đứng
-	steal	        stole	                           stolen	            đánh cắp
-	stick	        stuck	                           stuck	            ghim vào, đính
-	sting	        stung	                           stung	            châm, chích, đốt
-	stink	        stunk/stank	                   stunk	            bốc mùi hôi
-	stride	        strode	                           stridden	            bước sải
-	strike	        struck	                           struck	            đánh đập
-	string	        strung	                           strung	            gắn dây vào
-	sunburn	        sunburned/sunburnt 	           sunburned/sunburnt	    cháy nắng
-	swear	        swore	                           sworn	            tuyên thệ
-	sweat	        sweat/sweated	                   sweat/sweated 	    đổ mồ hôi
-	sweep	        swept	                           swept	            quét
-	swell	        swelled	                           swollen/swelled	    phồng, sưng
-	swim	        swam	                           swum	                    bơi lội
-	swing	        swung	                           swung	            đong đưa
-	take	        took	                           taken	            cầm, lấy
-	teach	        taught                         	   taught                   dạy, giảng dạy
-	tear	        tore	                           torn	                    xé, rách
-	telecast	telecast	                   telecast	            phát đi bằng truyền hình
-	tell	        told	                           told	                    kể, bảo
-	think	        thought	                           thought	            suy nghĩ
-	throw	        threw	                           thrown	            ném, liệng
-	thrust	        thrust	                           thrust	            thọc, nhấn
-	tread	        trod	                           trodden/trod	            giẫm, đạp
-	typewrite	typewrote	                   typewritten	            đánh máy
-	unbend	        unbent	                           unbent	            làm thẳng lại
-	unbind	        unbound	                           unbound	            mở, tháo ra
-	unclothe	unclothed/unclad 	           unclothed/unclad	    cởi áo, lột trần
-	undercut	undercut	                   undercut	            ra giá rẻ hơn
-	underfeed	underfed	                   underfed	            cho ăn đói, thiếu ăn
-	undergo	        underwent	                   undergone	            kinh qua
-	underlie	underlay	                   underlain	            nằm dưới
-	understand	understood	                   understood	            hiểu
-	undertake	undertook	                   undertaken	            đảm nhận
-	underwrite	underwrote	                   underwritten	            bảo hiểm
-	undo	        undid	                           undone	            tháo ra
-	unfreeze	unfroze	                           unfrozen	            làm tan đông
-	unhang	        unhung	                           unhung	            hạ xuống, bỏ xuống
-	unhide	        unhid	                           unhidden	            hiển thị, không ẩn
-unlearn	        unlearned/unlearnt 	           unlearned/unlearnt	    gạt bỏ, quên
-unspin	        unspun	                           unspun	            quay ngược          
-unwind	        unwound	                           unwound	            tháo ra
-uphold	        upheld	                           upheld	            ủng hộ
-upset	        upset	                           upset	            đánh đổ, lật đổ
-wake	        woke/waked	                   woken/waked	            thức giấc
-wear	        wore	                           worn	                    mặc
-wed	        wed/wedded	                   wed/wedded	            kết hôn
-weep	        wept	                           wept	                    khóc
-wet	        wet/wetted	                   wet/wetted	            làm ướt
-win	        won	                           won	                    thắng, chiến thắng
-wind	        wound	                           wound	            quấn
-withdraw	withdrew	                   withdrawn	            rút lui
-withhold	withheld	                   withheld	            từ khước
-withstand	withstood	                   withstood	            cầm cự
-work	        worked	                           worked	            rèn, nhào nặn đất
-wring	        wrung	                           wrung	            vặn, siết chặt
-write	        wrote	                           written	            viết
+	      
+abide	abide<br/>- nghĩa từ:lưu trú, lưu lại <br/>- (verb 2)quá khứ đơn: abode/abided<br/>- (verb 3)quá khứ phân từ: abode/abided<br/>Nghĩa
+arise	arise<br/>- nghĩa từ:phát sinh <br/>- (verb 2)quá khứ đơn: arose<br/>- (verb 3)quá khứ phân từ: arisen<br/>Nghĩa	             	
+awake	awake<br/>- nghĩa từ:đánh thức <br/>- (verb 2)quá khứ đơn: awoke<br/>- (verb 3) quá khứ phân từ: awoken<br/>Nghĩa
+backslide	backslide<br/>- nghĩa từ:tái phạm <br/>- (verb 2)quá khứ đơn: backslid<br/>- (verb 3) quá khứ phân từ: backslidden/backslid<br/>Nghĩa	     
+be	be<br/>- nghĩa từ:thì, là, bị ,ở <br/>- (verb 2)quá khứ đơn: was/were<br/>- (verb 3) quá khứ phân từ: been<br/>Nghĩa
+bear	bear<br/>- nghĩa từ:mang, chịu đựng <br/>- (verb 2)quá khứ đơn: bore<br/>- (verb 3) quá khứ phân từ: borne<br/>Nghĩa
+beat	beat<br/>- nghĩa từ:đánh, đập <br/>- (verb 2)quá khứ đơn: beat<br/>- (verb 3) quá khứ phân từ: beaten/beat<br/>Nghĩa	             
+become	become<br/>- nghĩa từ:trở nên <br/>- (verb 2)quá khứ đơn: became<br/>- (verb 3) quá khứ phân từ: become<br/>Nghĩa	             
+befall	befall<br/>- nghĩa từ:xảy đến <br/>- (verb 2)quá khứ đơn: befell<br/>- (verb 3) quá khứ phân từ: befallen<br/>Nghĩa	 
+begin	begin<br/>- nghĩa từ:bắt đầu <br/>- (verb 2)quá khứ đơn: began<br/>- (verb 3) quá khứ phân từ: begun<br/>Nghĩa	             
+behold	behold<br/>- nghĩa từ:ngắm nhìn <br/>- (verb 2)quá khứ đơn: beheld<br/>- (verb 3) quá khứ phân từ: beheld<br/>Nghĩa	             
+bend	bend<br/>- nghĩa từ:bẻ cong <br/>- (verb 2) quá khứ đơn: bent<br/>- (verb 3) quá khứ phân từ: bent<br/>Nghĩa	                              
+beset	beset<br/>- nghĩa từ:bao quanh <br/>- (verb 2) quá khứ đơn: beset<br/>- (verb 3) quá khứ phân từ: beset<br/>Nghĩa	            
+bespeak	bespeak<br/>- nghĩa từ:chứng tỏ <br/>- (verb 2) quá khứ đơn: bespoke<br/>- (verb 3) quá khứ phân từ: bespoken<br/>Nghĩa	             
+bet	bet<br/>- nghĩa từ:đánh cược, cá cược <br/>- (verb 2) quá khứ đơn: bet/betted<br/>- (verb 3) quá khứ phân từ: bet/betted<br/>Nghĩa 	             
+bid	bid <br/>- nghĩa từ:trả giá <br/>- (verb 2) quá khứ đơn: bid<br/>- (verb 3) qúa khứ phân từ: bid<br/>Nghĩa
+bind	bind<br/>- nghĩa từ:buộc trói <br/>- (verb 2) quá khứ đơn: bound<br/>- (verb 3) quá khứ phân từ: bound<br>Nghĩa
+bite	bite<br/>- nghĩa từ:cắn <br/>- (verb 2) quá khứ đơn: bit<br/>- (verb 3) quá khứ phân từ: bitten<br/>Nghĩa
+bleed	bleed<br/>- nghĩa từ: chảy máu <br/>- (verb 2) quá khứ đơn: bled<br/>- (verb 3) quá khứ phân từ: bled<br/>Nghĩa	
+blow	blow<br/>- nghĩa từ: thổi <br/>- (verb 2) quá khứ đơn: blew<br/>- (verb 3) quá khứ phân từ: blown<br/>Nghĩa	             
+break	break<br/>- nghĩa từ: đập vỡ <br/>- (verb 2) quá khứ đơn: broke<br/>- (verb 3) quá khứ phân từ: broken<br/>Nghĩa	             
+breed	breed<br/>- nghĩa từ: nuôi, dậy dỗ <br/>- (verb 2) quá khứ đơn: bred<br/>- (verb 3) quá khứ phân từ: bred<br/>Nghĩa	
+bring	bring<br/>- nghĩa từ: mang đến <br/>- (verb 2) quá khứ đơn: brought<br/>- (verb 3) quá khứ phân từ: brought<br/>Nghĩa	            
+broadcast	broadcast<br/>- nghĩa từ: phát thanh <br/>- (verb 2) quá khứ đơn: broadcast<br/>- (verb 3) quá khứ phân từ: broadcast<br/>Nghĩa	         
+browbeat	browbeat<br/>- nghĩa từ: hăm dọa <br/>- (verb 2) quá khứ đơn: browbeat<br/>- (verb 3) quá khứ phân từ: browbeaten/browbeat<br/>Nghĩa	    
+build	build<br/>- nghĩa từ: xây dựng <br/>- (verb 2) quá khứ đơn: built<br/>- (verb 3) quá khứ phân từ: built<br/>Nghĩa	
+burn	burn<br/>- nghĩa từ: đốt, cháy <br/>- (verb 2) quá khứ đơn: burnt/burned<br/>- (verb 3) quá khứ phân từ: burnt/burned<br/>Nghĩa	             
+burst	burst<br/>- nghĩa từ: nổ tung, vỡ òa <br/>- (verb 2) quá khứ đơn: burst<br/>- (verb 3) quá khứ phân từ: burst<br/>Nghĩa	            
+bust	bust<br/>-  nghĩa từ: làm bể, làm vỡ <br/>- (verb 2) quá khứ đơn: busted/bust<br/>- (verb 3) quá khứ phân từ: busted/bust<br/>Nghĩa	            
+buy	buy<br/>- nghĩa từ: mua <br/>- (verb 2) quá khứ đơn: bought<br/>- (verb 3) quá khứ phân từ: bought<br/>Nghĩa	             
+cast	cast<br/>- nghĩa từ: ném, tung <br/>- (verb 2) quá khứ đơn: cast<br/>- (verb 3) quá khứ phân từ: cast<br/>Nghĩa	                     
+catch	catch<br/>- nghĩa từ: bắt chụp <br/>- (verb 2) quá khứ đơn: caught<br/>- (verb 3) quá khứ phân từ: caught<br/>Nghĩa	      
+chide	chide<br/>- nghĩa từ: mắng, chửi <br/>- (verb 2) quá khứ đơn: chid/chided<br/>- (verb 3) quá khứ phân từ: chid/chidden/chided<br/>Nghĩa	     
+choose	choose<br/>- nghĩa từ: chọn, lựa <br/>- (verb 2) quá khứ đơn: chose <br/>- (verb 3) quá khứ phân từ: chosen<br/>Nghĩa	        	             
+cleave	cleave<br/>- nghĩa từ: chẻ, tách hai <br/>- (verb 2) quá khứ đơn: clove/cleft/cleaved <br/>- (verb 3) quá khứ phân từ: cloven/cleft/cleaved<br/>Nghĩa	     
+cleave	cleave<br/>- nghĩa từ: dính chặt <br/>- (verb 2) quá khứ đơn: clave <br/>- (verb 3) quá khứ phân từ: cleaved<br/>Nghĩa	         	        
+cling	cling<br/>- nghĩa từ: bám vào, dính vào <br/>- (verb 2) quá khứ đơn: clung <br/>- (verb 3) quá khứ phân từ: clung<br/>Nghĩa	
+clothe	clothe<br/>- nghĩa từ: che phủ <br/>- (verb 2) quá khứ đơn: clothed/ clad <br/>- (verb 3) quá khứ phân từ: clothed/ clad<br/>Nghĩa	       
+come	come<br/>- nghĩa từ: đến, đi đến <br/>- (verb 2) quá khứ đơn: came <br/>- (verb 3) quá khứ phân từ: come<br/>Nghĩa	        
+cost	cost<br/>- nghĩa từ: có giá là <br/>- (verb 2) quá khứ đơn: cost <br/>- (verb 3) quá khứ phân từ: cost<br/>Nghĩa	        
+creep	creep<br/>- nghĩa từ: bò, trườn, lẻn <br/>- (verb 2) quá khứ đơn: crept <br/>- (verb 3) quá khứ phân từ: crept<br/>Nghĩa	         
+crossbreed	crossbreed<br/>- nghĩa từ: choa lai giống <br/>- (verb 2) quá khứ đơn: crossbred <br/>- (verb 3) quá khứ phân từ: crossbrred<br/>Nghĩa        
+crow	crow<br/>- nghĩa từ: gáy(gà) <br/>- (verb 2) quá khứ đơn: crew/crewed <br/>- (verb 3) quá khứ phân từ: crowed<br/>Nghĩa	        
+cut	cut<br/>- nghĩa từ: cắt, chặt <br/>- (verb 2) quá khứ đơn: cut <br/>- (verb 3) quá khứ phân từ: cut<br/>Nghĩa	         
+daydream	daydream<br/>- nghĩa từ: nghĩ vẩn vơ, mơ mộng <br/>- (verb 2) quá khứ đơn: daydreamed <br/>- (verb 3) quá khứ phân từ: daydreamt<br/>Nghĩa	
+deal	deal<br/>- nghĩa từ: giao thiệp <br/>-(verb 2) quá khứ đơn: dealt <br/>- (verb 3) quá khứ phân từ: dealt<br/>Nghĩa	        
+dig	dig<br/>- nghĩa từ: đào <br/>- (verb 2) quá khứ đơn: dug <br/>- (verb 3) quá khứ phân từ: dug<br/>Nghĩa	         
+disprove	disprove<br/>- nghĩa từ: bác bỏ <br/>- (verb 2) quá khứ đơn: disproved <br/>- (verb 3) quá khứ phân từ: disproved/ disproven<br/>Nghĩa	 
+dive	dive<br/>- nghĩa từ: lặn, lao xuống <br/>- (verb 2) quá khứ đơn: dove/dived <br/>- (verb 3) quá khứ phân từ: dived<br/>Nghĩa	        
+do	do<br/>- nghĩa từ: làm <br/>- (verb 2) quá khứ đơn: did <br/>- (verb 3) quá khứ phân từ: done<br/>Nghĩa       
+draw	draw<br/>- nghãi từ: vẽ, kéo <br/>- (verb 2) quá khứ đơn: drew <br/>- (verb 3) quá khứ phân từ: drawn<br/>Nghĩa	        
+dream	dream<br/>- nghĩa từ: mơ thấy <br/>- (verb 2) quá khứ đơn: dreamt/dreamed <br/>- (verb 3) quá khứ phân từ: dreamt/dreamed<br/>Nghĩa	       
+drink	drink<br/>- nghĩa từ: uống <br/>- (verb 2) quá khứ đơn: drank <br/>- (verb 3) quá khứ phân từ: drunk<br/>Nghĩa	        
+drive	drive<br/>- nghĩa từ: lái xe <br/>- (verb 2) quá khứ đơn: drove <br/>- (verb 3) quá khứ phân từ: driven<br/>Nghĩa	        
+dwell	dwell<br/>- nghĩa từ: trú ngụ, ở <br/>- (verb 2) quá khứ đơn: dwelt <br/>- (verb 3) quá khứ phân từ: dwelt<br/>Nghĩa	         
+eat	eat<br/>- nghĩa từ: ăn <br/>- (verb 2) quá khứ đơn: ate <br/>- (verb 3) quá khứ phân từ: eaten<br>Nghĩa	       
+fall	fall<br/>- nghĩa từ: ngã, rơi <br/>- (verb 2) quá khứ đơn: fell<br/>- (verb 3) quá khứ phân từ: fallen<br/>Nghĩa         
+feed	feed<br/>- nghĩa từ: cho ăn, ăn, nuôi <br/>- (verb 2) quá khứ đơn: feb<br/>- (verb 3) quá khứ phân từ: fed<br/>Nghĩa	         
+feel	feel<br/>- nghĩa từ: cảm thấy <br/>- (verb 2) quá khứ đơn: felt<br/>- (verb 3) quá khứ phân từ: felt<br/>Nghĩa	        
+fight	fight<br/>- nghĩa từ: chiến đấu <br/>- (verb 2) quá khứ đơn: fought<br/>- (verb 3) quá khứ phân từ: fought<br/>Nghĩa        
+find	find<br/>- nghĩa từ: tìm thấy, thấy <br/>- (verb 2) quá khứ đơn: found<br/>- (verb 3) quá khứ phân từ: found<br/>Nghĩa	        
+fit	fit<br/>- nghĩa từ: làm cho vừa, làm cho hợp <br/>- (verb 2) quá khứ đơn: fitted/ fit<br/>- (verb 3) quá khứ phân từ: fitted/ fit<br/>Nghĩa        
+flee	flee<br/>- nghĩa từ: chạy trốn <br/>- (verb 2) quá khứ đơn: fled<br/>- (verb 3) quá khứ phân từ: fled<br/>Nghĩa	        
+fling	fling<br/>- nghĩa từ: tung, quăng <br/>- (verb 2) quá khứ đơn: flung<br/>- (verb 3) quá khứ phân từ: flung<br/>Nghĩa	        
+fly	fly<br/>- nghĩa từ: bay <br/>- (verb 2) quá khứ đơn: flew<br/>- (verb 3) quá khứ phân từ: flown<br/>Nghĩa	        
+forbear	forbear<br/>- nghĩa từ: nhịn <br/>- (verb 2) quá khứ đơn: forbore<br/>- (verb 3) quá khứ phân từ: forborne<br/>Nghĩa	        
+forbid	forbid<br/>- nghĩa từ: cấm, cấm đoán <br/>- (verb 2) quá khứ đơn: forbade/ forbad<br/>- (verb 3) quá khứ phân từ: forbidden<br/>Nghĩa	        
+forecast	forecast<br/>- nghĩa từ: tiên đoán <br/>- (verb 2) quá khứ đơn: forecast/ forecasted<br/>- (verb 3) quá khứ phân từ: forecast/ forecasted<br/>Nghĩa	
+forego(also forgot)	forego(also forgot)<br/>- nghĩa từ: bỏ, kiêng <br/>- (verb 2) quá khứ đơn: forewent <br/>- (verb 3) quá khứ phân từ: foregone<br/>Nghĩa	                 
+foresee	foresee<br/>- nghĩa từ: thấy trước<br/>-(verb 2) quá khứ đơn: foresaw<br/>- (verb 3) quá khứ phân từ: foressen<br/>Nghĩa 	        
+foretell	foretell<br/>nghĩa từ: đoán trước<br/>- (verb 2) quá khứ đơn: foretold<br/>- (verb 3) quá khứ phân từ: foretold<br/>Nghĩa	
+forget	forget<br/>- nghĩa từ: quên<br/>-( verb 2) quá khứ đơn: forgot<br/>- (verb 3) quá khứ phân từ: forgotten<br/>Nghĩa	         
+forgive	forgive<br/>- nghĩa từ: tha thứ<br/>- (verb 2) quá khứ đơn: forgave<br/>- (verb 3) quá khứ phân từ: forgiven<br/>Nghĩa	        
+forsake	forsake<br/>- nghĩa từ: ruồng bỏ<br/>- (verb 2) quá khứ đơn: forsook<br/>- (verb 3) quá khứ phân từ: forsaken<br/>Nghĩa         
+freeze	freeze<br/>- nghĩa từ: (làm) đông lại<br/>- (verb 2) quá khứ đơn: froze<br/>- (verb 3) quá khứ phân từ: frozen<br/>Nghĩa	         
+frostbite	frostbite<br/>- nghĩa từ: bỏng lạnh<br/>- ( verb 2) quá khứ đơn: frostbit<br/>- (verb 3) quá khứ phân từ: frostbitten<br/>Nghĩa 	
+get	get<br/>- nghĩa từ: có được<br/>- (verb 2) quá khứ đơn:got<br/>- (verb 3) quá khứ phân từ: got/ gotten<br/>Nghĩa 	        
+gild	gild<br/>- nghĩa từ: mạ vàng<br/>- (verb 2) quá khứ đơn: gilt/gilled<br/>- (verb 3) quá khứ phân từ: gilt/gilled<br/>Nghĩa	        
+gird	gird<br/>- nghĩa từ: đeo vào<br/>- (verb 2) quá khứ đơn: girt/girded<br/>- (verb 3) quá khứ phân từ: girt/girded<br/>Nghĩa          
+give	give<br/>- nghĩa từ: cho<br/>- (verb 2) quá khứ đơn: gave<br/>- (verb 3) quá khứ phân từ: given<br/>Nghĩa	        
+go	go<br/>- nghĩa từ: đi<br/>- (verb 2) quá khứ đơn: went<br/>- (verb 3) quá khứ phân từ: gone<br/>Nghĩa	        
+grind	grind<br/>- nghĩa từ: nghiền, xay<br/>- (verb 2) quá khứ đơn: ground<br/>- (verb 3) quá khứ phân từ: ground<br/>Nghĩa	         
+grow	grow<br/>- nghĩa từ: mọc, trồng<br/>- (verb 2) quá khứ đơn: grew<br/>- (verb 3) quá khứ phân từ: grown <br/>Nghĩa	        
+hand-feed	hand-feed<br/>- nghĩa từ:  cho ăn bằng tay<br/>- (verb 2) quá khứ đơn: hand- fed<br/>- (verb 3) quá khứ phân từ: hand-fed<br/>Nghĩa	
+handwrite	handwrite<br/>- nghĩa từ: viết tay<br/>- (verb 2)quá khứ đơn: handwrote<br/>- (verb 3) quá khứ phân từ: handwritten<br/>Nghĩa	                   
+hang	hang<br/>- nghĩa từ: móc lên, treo lên<br/>- (verb 2)quá khứ đơn: hung<br/>- (verb 3) quá khứ phân từ: hung<br/>Nghĩa	        
+have	have<br/>- nghĩa từ: có<br/>- (verb 2)quá khứ đơn: had<br/>- (verb 3) quá khứ phân từ: had<br/>Nghĩa        
+hear	hear<br/>- nghĩa từ: nghe<br/>- (verb 2) quá khứ đơn: heard<br/>- (verb 3) quá khứ phân từ: heard<br/>Nghĩa	      
+heave	heave<br/>- nghĩa từ: trục lên<br/>- (verb 2) quá khứ đơn: hove/heaved<br/>- (verb 3) quá khứ phân từ: hove/heaved<br/>Nghĩa	         
+hew	hew<br/>- nghĩa từ: chặt, đốn<br/>- (verb 2) quá khứ đơn: hewed<br/>- (verb 3) quá khứ phân từ: hewn/hewed<br/>Nghĩa	         
+hide	hide<br/>- nghĩa từ: giấu, trốn, nấp<br/>- (verb 2) quá khứ đơn: hid<br/>- (verb 3) quá khứ phân từ: hidden<br/>Nghĩa	        
+hit	hit<br/>- nghĩa từ: đụng<br/>- (verb 2) quá khứ đơn: hit<br/>- (verb 3) quá khứ phân từ: hit<br/>Nghĩa	         
+hurt	hurt<br/>- nghĩa từ: làm đau<br/>- ( verb 2) quá khứ đơn: hurt<br/>- (verb 3) quá khứ phân từ: hurt<br/>Nghĩa	        
+inbreed	inbreed<br/>- nghĩa từ: lai giống cận huyết<br/>- (verb 2) quá khứ đơn: inbred<br/>- (verb 3) quá khứ phân từ: inbred<br/>Nghĩa        
+inlay	inlay<br/>- nghĩa từ: cẩn, khảm<br/>- (verb 2) quá khứ đơn: inlaid<br/>- (verb 3) quá khứ phân từ: inlaid<br/>Nghĩa       
+input	input<br/>- nghĩa từ: đưa vào<br/>- (verb 2) quá khứ đơn: input<br/>- (verb 3) quá khứ phân từ: input<br/>Nghĩa	        
+inset	inset<br/>- nghĩa từ: dát, ghép<br/>- (verb 2) quá khứ đơn: inset<br/>- (verb 3) quá khứ phân từ: inset<br/>Nghĩa         
+interbreed	interbreed<br/>- nghĩa từ: giao phối, lai giống<br/>- (verb 2) quá khứ đơn: interbred<br/>- (verb 3) quá khứ phân từ: interbred<br/>Nghĩa	
+interweave	interweave<br/>- nghĩa từ: trộn lẫn, xen lẫn<br/>- (verb 2) quá khứ đơn:interwore<br/>- (verb 3) quá khứ phân từ: interweaved<br/>Nghĩa	 
+interwind	interwind<br/>- nghĩa từ: cuộn vào, quấn vào<br/>- (verb 2) quá khứ đơn:interwound<br/>- (verb 3) quá khứ phân từ: interwound<br/>Nghĩa	
+jerry-build	jerry-build<br/>- nghĩa từ: xây dựng cẩu thả<br/>- (verb 2) quá khứ đơn: jerry-built<br/>- (verb 3) quá khứ phân từ: jerry-built<br/>Nghĩa	
+keep	keep<br/>- nghĩa từ: giữ<br/>- (verb 2) quá khứ đơn: kept<br/>- (verb 3) quá khứ phân từ: kept<br/>Nghĩa        
+kneel	kneel<br/>- nghĩa từ: quỳ<br/>- (verb 2) quá khứ đơn: knelt/kneeled<br/>- (verb 3) quá khứ phân từ: knelt/kneeled<br/>Nghĩa	         
+knit	knit<br/>- nghĩa từ: đan<br/>- (verb 2) quá khứ đơn: knit/kneeled<br/>- (verb 3) quá khứ phân từ: knit/knitted<br/>Nghĩa	         
+know	know<br/>- nghĩa từ: biết, quen biết<br/>- (verb 2) quá khứ đơn: knew<br/>- (verb 3) quá khứ phân từ:known<br/>Nghĩa	         
+lay	lay<br/>- nghĩa từ: đặt	,để<br/>- (verb 2) quá khứ đơn: laid<br/>- (verb 3) quá khứ phân từ: laid<br/>Nghĩa         
+lead	lead<br/>- nghĩa từ: dẫn dắt, lãnh đạo<br/>- (verb 2) quá khứ đơn: led<br/>- (verb 3) quá khứ phân từ: led<br/>Nghĩa	         
+lean	lean<br/>- nghĩa từ: dựa, tựa<br/>- (verb 2) quá khứ đơn: leaned/leant<br/>- (verb 3) quá khứ phân từ:leaned/leant<br/>Nghĩa        
+leap	leap<br/>- nghĩa từ: nhảy, nhảy qua<br/>- (verb 2) quá khứ đơn: leapt<br/>- (verb 3) quá khứ phân từ: leapt<br/>Nghĩa	        
+learn	learn<br/>- nghĩa từ: học, được biết<br/>- (verb 2) quá khứ đơn: learnt/learned<br/>- (verb 3) quá khứ phân từ: learnt/learned<br/>Nghĩa	         
+leave	leave<br/>- nghĩa từ: ra đi, để lại<br/>- (verb 2) quá khứ đơn: left<br/>- (verb 3) quá khứ phân từ: left<br/>Nghĩa	         
+lend	lend<br/>- nghĩa từ: cho mượn<br/>- (verb 2) quá khứ đơn: lent<br/>- (verb 3) quá khứ phân từ: lent<br/>Nghĩa	         
+let	let<br/>- nghĩa từ: cho phép, để cho<br/>- (verb 2) quá khứ đơn: let<br/>- (verb 3) quá khứ phân từ: lent<br/>Nghĩa 	         
+lie	lie<br/>- nghĩa từ: nằm<br/>- (verb 2) quá khứ đơn: lay<br/>- (verb 3) quá khứ phân từ: lain<br/>Nghĩa	         
+light	light<br/>- nghĩa từ: thắp sáng<br/>- (verb 2) quá khứ đơn: lit/ighted<br/>- (verb 3) quá khứ phân từ: lit/lighted<br/>Nghĩa	         
+lip-read	lip-read<br/>- nghĩa từ: mấp máy môi<br/>- (verb 2) quá khứ đơn: lip-read<br/>- (verb 3) quá khứ phân từ: lip-read<br/>Nghĩa 	 
+lose	lose<br/>- nghĩa từ: làm mất, mất<br/>- (verb 2) quá khứ đơn: lost<br/>- (verb 3) quá khứ phân từ: lost<br/>Nghĩa  	        
+make	make<br/>- nghĩa từ: chế tạo, làm mất<br/>- (verb 2) quá khứ đơn: made<br/>- (verb 3) quá khứ phân từ: made<br/>Nghĩa		 
+mean	mean<br/>- nghĩa từ: có nghĩa từ<br/>- (verb 2) quá khứ đơn: meant<br/>- (verb 3) quá khứ phân từ: meant<br/>Nghĩa	         
+meet	meet<br/>- nghĩa từ: gặp mặt<br/>- (verb 2) quá khứ đơn: met<br/>- (verb 3) quá khứ phân từ: met<br/>Nghĩa	        
+miscast	miscast<br/>- nghĩa từ: chọn vai đóng không hợp<br/>- (verb 2) quá khứ đơn:miscast<br/>- (verb 3) quá khứ phân từ: miscast<br/>Nghĩa	       
+misdeal	misdeal<br/>- nghĩa từ: chia lộn bài, chia bài sai<br/>- (verb 2) quá khứ đơn: misdealt<br/>- (verb 3) quá khứ phân từ: misdealt<br/>Nghĩa	        
+misdo	misdo<br/>- nghĩa từ: phạm lỗi<br/>- (verb 2) quá khứ đơn: misdid<br/>- (verb 3) quá khứ phân từ: misdone<br/>Nghĩa		        
+mishear	mishear<br/>- nghĩa từ: nghe nhầm<br/>- (verb 2) quá khứ đơn: misheard<br/>- (verb 3) quá khứ phân từ: misheard<br/>Nghĩa	       
+mislay	mislay<br/>- nghĩa từ: để lạc mất<br/>- (verb 2) quá khứ đơn: mislaid<br/>- (verb 3) quá khứ phân từ: mislaid<br/>Nghĩa	       
+mislead	mislead<br/>- nghĩa từ: làm lạc đường<br/>- (verb 2) quá khứ đơn: misled<br/>- (verb 3) quá khứ phân từ: misled<br/>Nghĩa        
+mislearn	mislearn<br/>- nghĩa từ: học nhầm<br/>- (verb 2)quá khứ đơn: mislearn<br/>- (verb 3)quá khứ phân từ: mislearnt<br/>Nghĩa	 
+misread	misread<br/>- nghĩa từ: đọc sai<br/>- (verb 2) quá khứ đơn: misread<br/>- (verb 3) quá khứ phân từ: misread<br/>Nghĩa	        	                   
+misset	misset<br/>- nghĩa từ: đặt sai chỗ <br/>- (verb 2) quá khứ đơn: misset<br/>- (verb 3) quá khứ phân từ: misset<br/>Nghĩa	                                
+misspeak	misspeak<br/>- nghĩa từ: nói sai <br/>- (verb 2)quá khứ đơn: misspoke<br/>- (verb 3) quá khứ phân từ: misspoken<br/>Nghĩa	                   
+misspell	misspell<br/>- nghĩa từ: viết sai chính tả<br/>- (verb 2) quá khứ đơn: misspelt<br/>- (verb 3) quá khứ phân từ: misspelt<br/>Nghĩa	
+misspend	misspend<br/>- nghĩa từ: tiêu phí, bỏ phí <br/>- (verb 2) quá khứ đơn: misspent<br/>- (verb 3) quá khứ phân từ: misspent<br/>Nghĩa	
+mistake	mistake<br/>- nghĩa từ: phạm lỗi, lỗi lầm<br/>- (verb 2) quá khứ đơn: mistook <br/>- (verb 3) quá khứ phân từ: mistaken<br/>Nghĩa	        
+misteach	misteach<br/>- nghĩa từ: dạy sai<br/>- (verb 2) quá khứ đơn: mistaught<br/>- (verb 3) quá khứ phân từ: mistaught<br/>Nghĩa	
+misunderstand	misunderstand<br/>- nghĩa từ: hiểu lầm<br/>- (verb 2) quá khứ đơn: misunderstood<br/>- (verb 3) quá khứ phân từ: misunderstood<br/>Nghĩa	
+miswrite	miswrite<br/>- nghĩa từ: viết sai<br/>- (verb 2) quá khứ đơn<miswrote<br/>- (verb 3) quá khứ phân từ: miswritten<br/>Nghĩa	 
+mow	mow<br/>- nghĩa từ: cắt cỏ<br/>- (verb 2) quá khứ đơn: mowed<br/>- (verb 3) quá khứ phân từ: mown/mowed<br/>Nghĩa	        
+offset	offset<br/>- nghĩa từ: đền bù<br/>- (verb 2) quá khứ đơn: offset<br/>- (verb 3) quá khứ phân từ: offset<br/>Nghĩa	         
+outbid	outbid<br/>- nghĩa từ: trả hơn giá<br/>- (verb 2) quá khứ đơn: outbid<br/>- (verb 3) quá khứ phân từ: outbid<br/>Nghĩa	        
+outbreed	outbreed<br/>- nghĩa từ: giao phối xa<br/>- (verb 2) quá khứ đơn: outbred<br/>- (verb 3) quá khứ phân từ: outbred<br/>Nghĩa	
+outdo	outdo<br/>- nghĩa từ: làm giỏi hơn<br/>- (verb 2) quá khứ đơn: outdid<br/>- (verb 3) quá khứ phân từ: outdone<br/>Nghĩa	        
+outdraw	outdraw<br/>- nghĩa từ: rút súng ra nhanh hơn<br/>- (verb 2) quá khứ đơn: outdrew<br/>- (verb 3) quá khứ phân từ: outdrawn<br/>Nghĩa	        
+outdrink	outdrink<br/>- nghĩa từ: uống quá chén<br/>- (verb 2) quá khứ đơn: outdrank<br/>- (verb 3) quá khứ phân từ: outdrunk<br/>Nghĩa	 
+outdrive	outdirve<br/>- nghĩa từ: lái nhanh hơn<br/>- (verb 2) quá khứ đơn: outdrove<br/>- (verb 3) quá khứ phân từ: outdriven<br/>Nghĩa	 
+outfight	outfight<br/>- nghĩa từ: đánh giỏi hơn<br/>- (verb 2) quá khứ đơn: outfought<br/>- (verb 3) quá khứ phân từ: outfought<br/>Nghĩa	
+outfly	outfly<br/>- nghĩa từ: bay cao<br/>- (verb 2) quá khứ đơn: outflew<br/>- (verb 3) quá khứ phân từ: outflown<br/>Nghĩa	        
+outgrow	outgrow<br/>- nghĩa từ: lớn nhanh hơn<br/>- (verb 2) quá khứ đơn: outgrew<br/>- (verb 3) quá khứ phân từ: outgrown<br/>Nghĩa	         
+outleap	outleap<br/>- nghĩa từ: nhảy cao/xa hơn<br/>- (verb 2) quá khứ đơn: outleaped/outleapt<br/>- (verb 3) quá khứ phân từ: outleaped/outleapt<br/>Nghĩa	       
+outlie	outlie<br/>- nghĩa từ: nói dối<br/>- (verb 2) quá khứ đơn: outlied<br/>- (verb 3) quá khứ phân từ: outlied<br/>Nghĩa	       
+output	output<br/>- nghĩa từ: cho ra (dữ kiện)<br/>- (verb 2) quá khứ đơn: output<br/>- (verb 3) quá khứ phân từ: output<br/>Nghĩa	        
+outride	outride<br/>- nghĩa từ: cưỡi ngựa giỏi hơn<br/>- (verb 2) quá khứ đơn: outrode<br/>- (verb 3) quá khứ phân từ: outridden<br/>Nghĩa	     
+outrun	outrun<br/>- nghĩa từ: chạy nhanh hơn, vượt giá<br/>- (verb 2) quá khứ đơn: outran<br/>- (verb 3) quá khứ phân từ: outrun<br/>Nghĩa	         
+outsell	outsell<br/>- nghĩa từ: bắn nhanh hơn<br/>- (verb 2) quá khứ đơn: outsold<br/>- (verb 3) quá khứ phân từ:outsold<br/>Nghĩa	        
+outshine	outshine<br/>- nghĩa từ: sáng hơn, rạng hơn<br/>- (verb 2)quá khứ đơn: outshined/outshone<br/>- (verb 3) quá khứ phân từ: outshined/outshone<br/>Nghĩa	 
+outshoot	outshoot<br/>- nghĩa từ: bắn giỏi hơn, nảy mầm, mọc<br/>- (verb 2) quá khứ đơn: outshot<br/>- (verb 3) quá khứ phân từ: outshot<br/>Nghĩa	 
+outsing	outsing<br/>- nghĩa từ: hát hay hơn<br/>- (verb 2) quá khứ đơn: outsang<br/>- quá khứ phân từ: outsung<br/>Nghĩa 	    
+outsit	outsit<br/>- nghĩa từ: ngồi lâu hơn<br/>- (verb 2) quá khứ đơn: outsat<br/>- quá khứ phân từ: outsat<br/>Nghĩa	         
+outsleep	outsleep<br/>- nghĩa từ: ngủ lâu/muộn hơn<br/>- (verb 2) quá khứ đơn: outslept<br/>- (verb 3) quá khứ phân từ: outslept<br/>Nghĩa	 
+outsmell	outsmell<br/>- nghĩa từ: khám phá, đánh hơi, sặc mùi<br/>- (verb 2) quá khứ đơn: outsmelled/outsmelt<br/>- (verb 3) quá khứ phân từ: ousmelled/ousmelt<br/>Nghĩa	
+outspeak	outspeak<br/>- nghĩa từ: nói nhiều/dài/to hơn<br/>- (verb 2) quá khứ đơn: outspoke<br/>- (verb 3) quá khứ phân từ: outspoken<br/>Nghĩa	 
+outspeed	outspeed<br/>- nghĩa từ: đi/chạy nhanh<br/>- (verb 2) quá khứ đơn: outsped<br/>- (verb 3) quá khứ phân từ: outsped<br/>Nghĩa	 
+outspend	outspend<br/>- nghĩa từ: tiêu tiền nhiều hơn<br/>- (verb 2) quá khứ đơn: outspent<br/>- (verb 3) quá khứ phân từ: outspent<br/>Nghĩa	
+outswear	outswear<br/>- nghĩa từ: nguyền rủa nhiều hơn<br/>- (verb 2) quá khứ đơn: outswore<br/>- (verb 3) quá khứ phân từ: outsworn<br/>Nghĩa	
+outswim	outswim<br/>- nghĩa từ: bơi giỏi hơn<br/>- (verb 2) quá khứ đơn: outswam<br/>- (verb 3) quá khứ phân từ: outswum<br/>Nghĩa	         
+outthink	outthink<br/>- nghĩa từ: suy nghĩ nhanh hơn<br/>- (verb 2) quá khứ đơn: outthought<br/>- (verb 3) quá khứ phân từ: outthought<br/>Nghĩa	
+outthrow	outthrow<br/>- nghĩa từ: ném nhanh hơn<br/>- (verb 2) quá khứ đơn: outthrew<br/>- (verb 3) quá khứ phân từ: outthrown<br/>Nghĩa	                
+outwrite	outwrite<br/>- nghĩa từ: viết nhanh hơn<br/>- (verb 2) quá khứ đơn: outwrote<br/>- (verb 3) quá khứ phân từ: outwritten<br/>Nghĩa	
+overbid	overbid<br/>- nghĩa từ: trả giá/ bỏ thầu cao hơn<br/>- (verb 2) quá khứ đơn: overbid<br/>- (verb 3) quá khứ phân từ: overbid<br/>Nghĩa	         
+overbreed	overbreed<br/>- nghĩa từ: nuôi quá nhiều<br/>- (verb 2) quá khứ đơn: overbred<br/>- (verb 3) quá khứ phân từ: overbred<br/>Nghĩa 
+overbuild	overbuild<br/>- nghĩa từ: xây quá nhiều<br/>- (verb 2) quá khứ đơn: overbuilt<br/>- (verb 3) quá khứ phân từ: overbuilt<br/>Nghĩa	
+overbuy	overbuy<br/>- nghĩa từ: mua quá nhiều<br/>- (verb 2) quá khứ đơn: overbought<br/>- (verb 3) quá khứ phân từ: overbought<br/>Nghĩa	        
+overcome	overcome<br/>- nghĩa từ: khắc phục<br/>- (verb 2) quá khứ đơn: overcame<br/>- (verb 3) quá khứ phân từ: overcome<br/>Nghĩa	
+overdo	ovedo<br/>- nghĩa từ: dùng làm mức, làm quá<br/>- (verb 2) quá khứ đơn: overdid<br/>- (verb 3) quá khứ phân từ: overdone<br/>Nghĩa	        
+overdraw	overdraw<br/>- nghĩa từ: rút quá số tiền, phóng đại<br/>- (verb 2) quá khứ đơn: overdrew<br/>- (verb 3) quá khứ phân từ: overdrawn<br/>Nghĩa	 
+overdrink	overdrink<br/>- nghĩa từ: uống quá nhiều<br/>- (verb 2) quá khứ đơn: overdrank<br/>- (verb 3) quá khứ phân từ: overdrunk<br/>Nghĩa	 
+overeat	overeat<br/>- nghĩa từ: ăn quá nhiều<br/>- (verb 2) quá khứ đơn: overate<br/>- (verb 3) quá khứ phân từ: overeaten<br/>Nghĩa	        
+overfeed	overfeed<br/>- nghĩa từ: cho ăn quá mức<br/>- (verb 2) quá khứ đơn: overfed<br/>- (verb 3) quá khứ phân từ: overfed<br/>Nghĩa	 
+overfly	overfly<br/>- nghĩa từ: bay qua<br/>- (verb 2) quá khứ đơn: overflew<br/>- (verb 3) quá khứ phân từ: overflown<br/>Nghĩa	         
+overhang	overhang<br/>- nghĩa từ: nhô lên trên, troe lơ lửng<br/>- (verb 2) quá khứ đơn: overhung<br/>- (verb 3) quá khứ phân từ: overhung<br/>Nghĩa	                 
+overhear	overhear<br/>- nghĩa từ: nghe trộm<br/>- (verb 2) quá khứ đơn: overheard<br/>- (verb 3) quá khứ phân từ: overheard<br/>Nghĩa	                   
+overlay	overlay<br/>- nghĩa từ: phủ lên<br/>- ( verb 2) quá khứ đơn: overlaid<br/>- (verb 3) quá khứ phân từ: overlaid<br/>Nghĩa 	        
+overpay	overpay<br/>- nghĩa từ: trả quá tiền<br/>- (verb 2) quá khứ đơn: overpaid<br/>- (verb 3) quá khứ phân từ: overpaid<br/>Nghĩa	        
+override	override<br/>- nghĩa từ: lạm quyền<br/>- (verb 2) quá khứ đơn: overrode<br/>- (verb 3) quá khứ phân từ: overriden<br/>Nghĩa	
+overrun	overrun<br/>- nghĩa từ: tràn ngập<br/>- (verb 2) quá khứ đơn: overran<br/>- (verb 3) quá khứ phân từ: overrun<br/>Nghĩa	         
+oversee	oversee<br/>- nghĩa từ: trông nom<br/>- (verb 2) quá khứ đơn: oversaw<br/>- (verb 3) quá khứ phân từ: overseen<br/>Nghĩa	         
+oversell	oversell<br/>- nghĩa từ: bán quá mức<br/>- (verb 2) quá khứ đơn: oversold<br/>- (verb 3) quá khứ phân từ: oversold<br/>Nghĩa	
+oversew	oversew<br/>- nghĩa từ: may nốt vắt<br/>- (verb 2) quá khứ đơn: oversewed<br/>- (verb 3) quá khứ phân từ: oversewn/oversewed<br/>Nghĩa	        
+overshoot	overshoot<br/>- nghĩa từ: đi quá đích<br/>- (verb 2) quá khứ đơn: overshot<br/>- (verb 3) quá khứ phân từ: overshot<br/>Nghĩa	 
+oversleep	oversleep<br/>- nghĩa từ: ngủ quên<br/>- (verb 2) quá khứ đơn: overslept<br/>- (verb 3) quá khứ phân từ: overslept<br/>Nghĩa	 
+overspeak	overspeak<br/>- nghĩa từ: nói quá nhiều, nói lần át<br/>- (verb 2) quá khứ đơn: overspoke<br/>- (verb 3) quá khứ phân từ: overspoken<br/>Nghĩa	
+overspend	overspend<br/>- nghĩa từ: tiêu quá lố<br/>- (verb 2) quá khứ đơn: overspent<br/>- (verb 3) quá khứ phân từ: overspent<br/>Nghĩa	                 
+overspill	overspill<br/>- nghĩa từ: đổ, làm tràn<br/>- (verb 2) quá khứ đơn: overspilled/overspilt<br/>- (verb 3) quá khứ phân từ: overspilled/overspilt<br/>Nghĩa	
+overtake	overtake<br/>- nghĩa từ: đuổi, bắt kịp<br/>- (verb 2) quá khứ đơn: overtook<br/>- (verb 3) quá khứ phân từ: overtaken<br/>Nghĩa	 
+overthink	overthink<br/>- nghĩa từ: tính trước nhiều quá<br/>- (verb 2) quá khứ đơn: overthought<br/>- (verb 3) quá khứ phân từ: overthought<br/>Nghĩa 	
+overthrow	overthrow<br/>- nghĩa từ: lật đổ<br/>- (verb 2) quá khứ đơn: overthrew<br/>- (verb 3) quá khứ phân từ: overthrown<br/>Nghĩa	
+overwind	overwind<br/>- nghĩa từ: lên dây (đồng hồ) quá chặt<br/>- (verb 2) quá khứ đơn: overwound<br/>- (verb 3) quá khứ phân từ: overwound<br/>Nghĩa	
+overwrite	overwrite<br/>- nghĩa từ: viết dài quá, viết đè lên<br/>- (verb 2) quá khứ đơn: overwrote<br/>- (verb 3) quá khứ phân từ: overwritten<br/>Nghĩa	                  
+partake	partake<br/>- nghĩa từ: tham gia, dự phần<br/>- (verb 2) quá khứ đơn: partook<br/>- (verb 3) quá khứ phân từ: partaken<br/>Nghĩa      
+pay	pay<br/>- nghĩa từ: trả(tiền)<br/>- (verb 2) quá khứ đơn: paid<br/>- (verb 3) quá khứ phân từ: paid<br/>Nghĩa	       
+plepread	plead<br/>- nghĩa từ: bào chữa, biện hộ<br/>- (verb 2) quá khứ đơn: pleaded/pled<br/>- (verb 3) quá khứ phân từ: pleaded/pled<br/>Nghĩa	        
+prebuild	prebuild<br/>- nghĩa từ: làm nhà tiền chế<br/>- (verb 2) quá khứ đơn: prebuilt<br/>-(verb 3) quá khứ phân từ: prebuilt<br/>Nghĩa	
+predo	predo<br/>- nghĩa từ: làm trước<br/>- (verb 2) quá khứ đơn: predid<br/>- (verb 3) quá khứ phân từ: predone<br/>Nghĩa	      
+premake	premake<br/>- nghĩa từ: làm trước<br/>- (verb 2) quá khứ đơn: premade<br/>- (verb 3) quá khứ phân từ: premade<br/>Nghĩa 	
+prepay	prepay<br/>- nghĩa từ: trả trước<br/>- (verb 2) quá khứ đơn: prepaid<br/>- (verb 3) quá khứ phân từ: prepaid<br/>Nghĩa	        
+presell	presell<br/>- nghĩa từ: bán trước thời gian rao bán<br/>- (verb 2) quá khứ đơn: presold<br/>- (verb 3) quá khứ phân từ: presold<br/>Nghĩa	        
+preset	preset<br/>- nghĩa từ: thiết lập sẵn, cài đặt sẵn<br/>- (verb 2) quá khứ đơn: preset<br/>- (verb 3) quá khứ phân từ: preset<br/>Nghĩa	         
+preshrink	preshrink<br/>- nghĩa từ: ngâm cho vải co trước khi may<br/>- (verb 2) quá khứ đơn: preshrank<br/>- (verb 3) quá khứ phân từ: preshrunk<br/>Nghĩa	 
+proofread	proofread<br/>- nghĩa từ: đọc bản thảo trước khi in<br/>- (verb 2) quá khứ đơn: proofread<br/>- (verb 3) quá khứ phân từ: proofread<br/>Nghĩa	
+prove	prove<br/>- nghĩa từ: chứng minh<br/>- (verb 2) quá khứ đơn: proved<br/>- (verb 3) quá khứ phân từ: proven/proved<br/>Nghĩa	        
+put	put<br/>- nghĩa từ: đặt, để<br/>- (verb 2) quá khứ đơn: put<br/>- (verb 3) quá khứ phân từ: put <br/>Nghĩa 	       
+quick-freeze	quick-freeze<br/>- nghĩa từ: kết đông nhanh<br/>- (verb 2) quá khứ đơn: quick-froze<br/>- (verb 3) quá khứ phân từ: quick-frozen<br/>Nghĩa	
+quit	quit<br/>- nghĩa từ: bỏ<br/>- (verb 2) quá khứ đơn: quit/quited<br/>- (verb 3) quá khứ phân từ: quit/quited<br/>Nghĩa	       
+read	read<br/>- nghĩa từ: đọc<br/>- (verb 2) quá khứ đơn: read<br/>- (verb 3) quá khứ phân từ: read<br/>Nghĩa	        
+reawake	reawake<br/>- nghĩa từ: đánh thức 1 lần nữa<br/>- (verb 2) quá khứ đơn: reawoke<br/>- (verb 3) quá khứ phân từ: reawaken<br/>Nghĩa	       
+rebid	rebid<br/>- nghĩa từ: trả giá, bỏ thàu<br/>- (verb 2) quá khứ đơn: rebid<br/>- (verb 3) quá khứ phân từ: rebid<br/>Nghĩa	      
+rebind	rebind<br/>- nghĩa từ: buộc lại, đóng lại<br/>- (verb 2) quá khứ đơn: rebound<br/>- (verb 3) quá khứ phân từ: rebound<br/>Nghĩa	       
+rebroadcast	rebroadcast<br/>- nghĩa từ: cự tuyệt, khước từ<br/>- (verb 2) quá khứ đơn: rebroadcasted<br/>- (verb 3) quá khứ phân từ: rebroandcast<br/>Nghĩa	             
+rebuild	rebuild<br/>- nghĩa từ: xây dựng lại<br/>- (verb 2) quá khứ đơn: rebuilt<br/>- (verb 3) quá khứ phân từ: rebuilt<br/>Nghĩa	       
+recast	recast<br/>- nghĩa từ: đúc lại<br/>- (verb 2) quá khứ đơn: recast<br/>- (verb 3) quá khứ phân từ: recast<br/>Nghĩa	       
+recut	recut<br/>- nghĩa từ: cắt lại, băm<br/>- (verb 2) quá khứ đơn: recut<br/>- (verb 3) quá khứ phân từ: recut<br/>Nghĩa	        
+redeal	redeal<br/>- nghĩa từ: phát bài lại<br/>- (verb 2) quá khứ đơn: reddealt<br/>- (verb 3) quá khứ phân từ: redealt<br/>Nghĩa      
+redo	redo<br/>- nghĩa từ: redid<br/>- (verb 2) quá khứ đơn: redid<br/>- (verb 3) quá khứ phân từ: redone<br/>Nghĩa	        
+redraw	redraw<br/>- nghĩa từ: kéo ngược lại<br/>- (verb 2) quá khứ đơn: redrew<br/>- (verb 3) quá khứ phân từ: redrawn<br/>Nghĩa	        
+refit	refit<br/>- nghĩa từ: luồn,xỏ<br/>- (verb 2) quá khứ đơn: refitted/refit<br/>- (verb 3) quá khứ phân từ: refitted/refit<br/>Nghĩa	        
+regrind	regrind<br/>- nghĩa từ: mài sắc lại<br/>- (verb 2) quá khứ đơn: reground<br/>- (verb 3) quá khứ phân từ: reground<br/>Nghĩa	       
+regrow	regrow<br/>- nghĩa từ: trồng lại<br/>- (verb 2) quá khứ đơn: regrew<br/>- (verb 3) quá khứ phân từ: regrown<br/>Nghĩa	      
+rehang	rehang<br/>- nghĩa từ: treo lại<br/>- (verb 2) quá khứ đơn: rehung<br/>- (verb 3) quá khứ phân từ: rehugn<br/>Nghĩa	       
+rehear	rehear<br/>- nghĩa từ: nghe trình bày lại<br/>- (verb 2) quá khứ đơn: reheard<br/>- (verb 3) quá khứ phân từ: reheard<br/>Nghĩa	       
+reknit	reknit<br/>- nghĩa từ: đan lại<br/>- (verb 2) quá khứ đơn: reknitted/reknit<br/>- (verb 3) quá khứ phân từ:reknitted/reknit<br/>Nghĩa	       
+relay	relay<br/>- nghĩa từ: relaid<br/>- (verb 2) quá khứ đơn: relaid<br/>- (verb 3) quá khứ phân từ: relaid<br/>Nghĩa	      
+relay	relay<br/>- nghĩa từ: relayed<br/>- (verb 2) quá khứ đơn: relayed<br/>- (verb 3) quá khứ phân từ: relayed<br/>Nghĩa 	      
+relearn	relearn<br/>- nghĩa từ: học lại<br/>- (verb 2) quá khứ đơn: relearned/relearnt<br/>- (verb 3) quá khứ phân từ: relearned/relearnt<br/>Nghĩa	       
+relight	relight<br/>- nghĩa từ: thắp sáng lại<br/>- (verb 2) quá khứ đơn: relit/relighted<br/>- (verb 3) quá khứ phân từ: relit/relighted<br/>Nghĩa	        
+remake	remake<br/>- nghĩa từ: làm lại, chế tạo lại<br/>- (verb 2) quá khứ đơn: remade<br/>- (verb 3) quá khứ phân từ: remade<br/>Nghĩa	       
+rend	rend<br/>- nghĩa từ: toạc ra, xé<br/>- (verb 2) quá khứ đơn: rent<br/>- (verb 3) quá khứ phân từ: rent<br/>Nghĩa	       
+repay	repay<br/>- nghĩa từ: hoàn tiền lại<br/>- (verb 2) quá khứ đơn: repaid<br/>- (verb 3) quá khứ phân từ: repaid<br/>Nghĩa	       
+reread	reread<br/>- nghĩa từ: đọc lại<br/>- (verb 2) quá khứ đơn: reread<br/>- (verb 3) quá khứ phân từ: reread<br/>Nghĩa	       
+rerun	rerun<br/>- nghĩa từ: rerun<br/>- (verb 2) quá khứ đơn: reran<br/>- (verb 3) quá khứ phân từ: rerun<br/>Nghĩa	       
+resell	resell<br/>- nghĩa từ: resold<br/>- (verb 2) quá khứ đơn: resold<br/>- (verb 3) quá khứ phân từ: resold<br/>Nghĩa	        
+resend	resend<br/>- nghĩa từ: gửi lại<br/>- (verb 2) quá khứ đơn: resent<br/>- (verb 3) quá khứ phân từ: resent<br/>Nghĩa	       
+reset	reset<br/>- nghĩa từ: đặt lại, lắp lại<br/>- (verb 2) quá khứ đơn: reset<br/>- (verb 3) quá khứ phân từ: reset<br/>Nghĩa	       
+resew	resew<br/>- nghĩa từ: may/khâu lại<br/>- (verb 2) quá khứ đơn: resewed<br/>- (verb 3) quá khứ phân từ: resewn/resewed<br/>Nghĩa	        
+retake	retake<br/>- nghĩa từ: chiếm lại, tái chiếm<br/>- (verb 2) quá khứ đơn: retook<br/>- (verb 3) quá khứ phân từ: retaken<br/>Nghĩa	       
+reteach	reteach<br/>- nghĩa từ: day lại<br/>- (verb 2) quá khứ đơn: retaught<br/>- (verb 3) quá khứ phân từ: retaught<br/>Nghĩa	       
+retear	retear<br/>- nghĩa từ: khóc lại<br/>- (verb 2) quá khứ đơn: retore<br/>- (verb 3) quá khứ phân từ: retorn<br/>Nghĩa	        
+retell	retell<br/>- nghĩa từ: kể lại <br/>- (verb 2) quá khứ đơn: retold<br/>- (verb 3) quá khứ phân từ: retold<br/>Nghĩa	        
+rethink	rethink<br/>- nghĩa từ: suy tính lại<br/>- (verb 2) quá khứ đơn: rethought<br/>- (verb 3) quá khứ phân từ: rethought<br/>Nghĩa	        
+retread	retread<br/>- nghĩa từ: lại giẫm/đạp lên<br/>- (verb 2) quá khứ đơn: retread<br/>- (verb 3) quá khứ phân từ: retread<br/>Nghĩa	       
+retrofit	retrofit<br/>- nghĩa từ:trang bị thêm những bộ phận mới<br/>- (verb 2) quá khứ đơn: retrofitted/retrofit<br/>- (verb 3) quá khứ phân từ: retrofitted/retrofit<br/>Nghĩa 	
+rewake	rewake<br/>- nghĩa từ: đánh thức lại<br/>- (verb 2) quá khứ đơn: rewoke/rewaked<br/>- (verb 3) quá khứ phân từ: rewaken/rewaked<br/>Nghĩa	        
+rewear	rewear<br/>- nghĩa từ: mặc lại<br/>- (verb 2) quá khứ đơn: rewore<br/>- (verb 3) quá khứ phân từ: reworn<br/>Nghĩa	       
+reweave	reweave<br/>- nghĩa từ: dệt lại<br/>- (verb 2) quá khứ đơn: rewove/reweaved<br/>- (verb 3) quá khứ phân từ: rewoven/reweaved<br/>Nghĩa	        
+rewed	rewed<br/>- nghĩa từ: kết hôn lại<br/>- (verb 2) quá khứ đơn: rewed/rewedded<br/>- (verb 3) quá khứ phân từ: rewed/rewedded<br/>Nghĩa	        
+rewet	rewet<br/>- nghĩa từ: làm ướt lại<br/>- (verb 2) quá khứ đơn: rewet/rewetted<br/>- (verb 3) quá khứ phân từ: rewet/rewetted<br/>Nghĩa	        
+rewin	rewin<br/>- nghĩa từ:thắng lại<br/>- (verb 2) quá khứ đơn: rewon<br/>- (verb 3) quá khứ phân từ: rewon<br/>Nghĩa        
+rewind	rewind<br/>- nghĩa từ: rewound<br/>- (verb 2) quá khứ đơn: rewound<br/>- (verb 3) quá khứ phân từ: rewound<br/>Nghĩa	        
+rewrite	rewrite<br/>- nghĩa từ: rewrote<br/>- (verb 2) quá khứ đơn: rewrote<br/>- (verb 3) quá khứ phân từ: rewritten<br/>Nghĩa	        
+rid	rid<br/>- nghĩa từ: rid<br/>- (verb 2) quá khứ đơn: rid<br/>- (verb 3) quá khứ phân từ: rid<br/>Nghĩa 	       
+ride	ride<br/>- nghĩa từ: cưỡi<br/>- (verb 2) quá khứ đơn: rode<br/>- (verb 3) quá khứ phân từ: ridden<br/>Nghĩa	       
+ring	ring<br/>- nghĩa từ: rung chuông<br/>- (verb 2) quá khứ đơn: rang<br/>- (verb 3) quá khứ phân từ: rung<br/>Nghĩa	       
+rise	rise<br/>- nghĩa từ: đứng dậy, mọc<br/>- (verb 2) quá khứ đơn: rose<br/>- (verb 3) quá khứ phân từ: risen<br/>Nghĩa      
+roughcast	roughcast<br/>- nghĩa từ: tạo hình phỏng chừng<br/>- (verb 2) quá khứ đơn: roughcast<br/>- (verb 3) quá khứ phân từ: roughcast<br/>Nghĩa	
+run	run<br/>- nghĩa từ: chạy<br/>- (verb 2) quá khứ đơn: ran<br/>- (verb 3) quá khứ phân từ: run<br>Nghĩa	       
+sand-cast	sand-cast<br/>- nghĩa từ: đúc bằng khuôn cát<br/>- (verb 2) quá khứ đơn: sand-cast<br/>- (verb 3) quá khứ phân từ: sand-cast<br/>Nghĩa 	
+saw	saw<br/>- nghĩa từ: cưa<br/>- (verb 2) quá khứ đơn: sawed<br/>- (verb 3) quá khứ phân từ: sawn<br/>Nghĩa        
+say	say<br/>- nghĩa từ: nói<br/>- (verb 2) quá khứ đơn: said<br/>- (verb 3) quá khứ phân từ: said<br/>Nghĩa	       
+see	see<br/>- nghĩa từ: nhìn thấy<br/>- (verb 2) quá khứ đơn: saw<br/>- (verb 3) quá khứ phân từ: seen<br/>Nghĩa	        
+seek	seek<br/>- nghĩa từ: tìm kiếm<br/>- (verb 2) quá khứ đơn: sought<br/>- (verb 3) quá khứ phân từ: sought<br/>Nghĩa	        
+sell	sell<br/>- nghĩa từ: bán<br/>- (verb 2) quá khứ đơn: sold<br/>- (verb 3) quá khứ phân từ: sold<br/>Nghĩa	       
+send	send<br/>- nghĩa từ: gửi<br/>- (verb 2) quá khứ đơn: sent<br/>- (verb 3) quá khứ phân từ: sent<br/>Nghĩa	        
+set	set<br/>- nghĩa từ: đặt, thiết lập<br/>- (verb 2) quá khứ đơn: set<br/>- (verb 3) quá khứ phân từ: set<br/>Nghĩa	       
+sew	sew<br/>- nghĩa từ: sewed<br/>- (verb 2) quá khứ đơn: sewed<br/>- (verb 3) quá khứ phân từ: sewn/sewed<br/>Nghĩa	        
+shake	shake<br/>- nghĩa từ: lay, lắc<br/>- (verb 2) quá khứ đơn: shook<br/>- (verb 3) quá khứ phân từ: shaken<br/>Nghĩa	       
+shave	shave<br/>- nghĩa từ: cạo(râu, mặt)<br/>- (verb 2) quá khứ đơn: shaved<br/>- (verb 3) quá khứ phân từ: shaved/shaven<br/>Nghĩa	       
+shear	shear<br/>- nghĩa từ: xén lông (cừu)<br/>- (verb 2) quá khứ đơn: sheared<br/>-(verb 3) quá khứ phân từ: shorn<br/>Nghĩa        
+shed	shed<br/>- nghĩa từ: rơi, rụng<br/>- (verb 2) quá khứ đơn: shed<br/>- (verb 3) quá khứ phân từ: shed<br/>Nghĩa	       
+shine	shine<br/>- nghĩa từ: chiếu sáng<br/>- (verb 2) quá khứ đơn: shone<br/>- (verb 3) quá khứ phân từ: shone<br/>Nghĩa	       
+shit	shit<br/>- nghĩa từ: suộc khuộng đi đại tiện<br/>- (verb 2) quá khứ đơn: shit/shat/shitted<br/>- (verb 3) quá khứ phân từ: shit/shat/shitted<br/>Nghĩa	        
+shoot	shoot<br/>- nghĩa từ: bắn<br/>- (verb 2) quá khứ đơn: shot<br/>- (verb 3) quá khứ phân từ: shot<br/>Nghĩa	       
+show	show<br/>- nghĩa từ:  cho xem<br/>- (verb 2) quá khứ đơn: showed<br/>- (verb 3) quá khứ phân từ: shown/showed<br/>Nghĩa	     
+shrink	shrink<br/>- nghĩa từ: co rút<br/>- (verb 2) quá khứ đơn: shrank<br/>- (verb 3) quá khứ phân từ: shrunk<br/>Nghĩa	      
+shut	shut<br/>- nghĩa từ: đóng lại<br/>- (verb 2) quá khứ đơn: shut<br/>- (verb 3) quá khứ phân từ: shut<br/>Nghĩa	       
+sight-read	sight-read<br/>- nghĩa từ: chơi hoặc hát mà không cần nghiên cứu trước<br/>- (verb 2) quá khứ đơn: sight-read<br/>- (verb 3) quá khứ phân từ: sight-read<br/>Nghĩa	
+sing	sing<br/>- nghĩa từ: ca hát<br/>- (verb 2) quá khứ đơn: sang<br/>- (verb 3) quá khứ phân từ: sung<br/>Nghĩa	       
+sink	sink<br/>- nghĩa từ: chìm, lặn<br/>- (verb 2) quá khứ đơn: sank<br/>- (verb 3) quá khứ phân từ: sunk<br/>Nghĩa	      
+sit	sit<br/>- nghĩa từ: ngồi<br/>- (verb2) quá khứ đơn: sat<br/>- (verb 3) quá khứ phân từ: sat<br/>Nghĩa	        
+slay	slay<br/>- nghĩa từ: sát hại, giết hại<br/>- (verb 2) quá khứ đơn: slew<br/>- (verb 3) quá khứ phân từ:slain<br/>Nghĩa 	        
+sleep	sleep<br/>- nghĩa từ: ngủ<br/>- (verb 2) quá khứ đơn: slept<br/>- (verb 3) quá khứ phân từ: slept<br/>Nghĩa	       
+slide	slide<br/>- nghĩa từ: trượt, lướt<br/>- (verb 2) quá khứ đơn: slid<br/>- (verb 3) quá khứ phân từ: slid<br/>Nghĩa      
+sling	sling<br/>- nghĩa từ: ném mạnh<br/>- (verb 2) quá khứ đơn: slung<br/>- (verb 3) quá khứ phân từ: slung<br/>Nghĩa	       
+slink	slink<br/>- nghĩa từ: lẻn đi<br/>- (verb 2) quá khứ đơn: slung<br/>- (verb 3) quá khứ phân từ: slunk<br/>Nghĩa 	        
+slit	slit<br/>- nghĩa từ: rạch, khứa<br/>-(verb 2) quá khứ đơn: slit<br/>- (verb 3) quá khứ phân từ: slit<br/>Nghĩa	        
+smell	smell<br/>- nghĩa từ:ngửi<br/>- (verb 2) quá khứ đơn:smelt<br/>- (verb 3) quá khứ phân từ: smelt<br/>Nghĩa	       
+smite	smite<br/>- nghĩa từ: đập mạnh<br/>- (verb 2) quá khứ đơn: smote<br/>- (verb 3) quá khứ phân từ: smitten<br/>Nghĩa	       
+sneak	sneak<br/>- nghĩa từ: trốn, lén<br/>- (verb 2) quá khứ đơn: sneaked/snuck<br/>- (verb 3) quá khứ phân từ: sneaked/snuck<br/>Nghĩa	       
+speak	speak<br/>- nghĩa từ: nói<br/>- (verb 2) quá khứ đơn: spoke<br/>- (verb 3) quá khứ phân từ: spoken<br/>Nghĩa	       
+speed	speed<br/>- nghĩa từ: chạy/vụt<br/>- (verb 2) quá khứ đơn: sped/speeded<br/>- (verb 3) quá khứ phân từ: sped/speeded<br/>Nghĩa	        
+spell	spell<br/>- nghĩa từ: spelt/spelled<br/>- (verb 2) quá khứ đơn: spelt/spelled<br/>- (verb 3) quá khứ phân từ: spelt/spelled<br/>Nghĩa 	        
+spend	spend<br/>- nghĩa từ: tiêu xài<br/>- (verb 2) quá khứ đơn: spent<br/>- (verb 3) quá khứ phân từ: spent<br/>Nghĩa	        
+spill	spill<br/>- nghĩa từ: tràn, đổ ra<br/>- (verb 2) quá khứ đơn: split/spilled<br/>- (verb 3) quá khứ phân từ: spilt/spilled<br/>Nghĩa	       
+spin	spin<br/>- nghĩa từ: quay sợi<br/>- (verb 2) quá khứ đơn: spun/span<br/>- (verb 3) quá khứ phân từ: spun<br/>Nghĩa	       
+spoil	spoil<br/>- nghĩa từ: làm hỏng<br/>- (verb 2) quá khứ đơn: spoilt/spoiled<br/>- (verb 3) quá khứ phân từ: spoilt/spoiled<br/>Nghĩa	      
+spread	spread<br/>- nghĩa từ: lan truyền<br/>- (verb 2) quá khứ đơn: spread<br/>- (verb 3) quá khứ phân từ: spread<br/>Nghĩa	        
+stand	stand<br/>- nghĩa từ: đứng<br/>- (verb 2) quá khứ đơn: stood<br/>- (verb 3) quá khứ phân từ: stood<br/>Nghĩa	        
+steal	steal<br/>- nghĩa từ: đánh cắp<br/>- (verb 2) quá khứ đơn: stole<br/>- (verb 3) quá khứ phân từ: stolen<br/>Nghĩa	        
+stick	stick<br/>- nghĩa từ: ghim vào,đính<br/>- (verb 2) quá khứ đơn: stuck<br/>- (verb 3) quá khứ phân từ: stuck<br/>Nghĩa	       
+sting	sting<br/>- nghĩa từ: châm, chít, đốt<br/>- (verb 2) quá khứ đơn: stung<br/>- (verb 3) quá khứ phân từ: stung<br/>Nghĩa 	       
+stink	stink<br/>- nghĩa từ: bốc mùi hôi<br/>- (verb 2) quá khứ đơn: stunk/stank<br/>- (verb 3) quá khứ phân từ: stunk<br/>Nghĩa	       
+stride	stride<br/>- nghĩa từ: bước sải<br/>- (verb 2) quá khứ đơn: strode<br/>- (verb 3) quá khứ phân từ: stridden<br/>Nghĩa	        
+strike	strike<br/>- nghĩa từ: đánh đập<br/>- (verb 2) quá khứ đơn: struck<br/>- (verb 3) quá khứ phân từ: struck<br/>Nghĩa 	        
+string	string<br/>- nghĩa từ: gắn dây vào<br/>- (verb 2) quá khứ đơn: strung<br/>- (verb 3) quá khứ phân từ: strung<br/>Nghĩa	      
+sunburn	sunburn<br/>- nghĩa từ: cháy nắng<br/>- (verb 2) quá khứ đơn: sunburned/sunburnt<br/>- (verb 3) quá khứ phân từ:sunburned/sunbrunt<br/>Nghĩa	       
+swear	swear<br/>- nghĩa từ: tuyên thệ<br/>- (verb 2) quá khứ đơn: swore<br/>- (verb 3) quá khứ phân từ: sworn<br/>Nghĩa	       
+sweat	sweat<br/>- nghĩa từ: đổ mồ hôi<br/>- (verb 2) quá khứ đơn: sweat/sweated<br/>- (verb 3) quá khứ phân từ: sweat/sweated<br/>Nghĩa	        
+sweep	sweep<br/>- nghĩa từ: quét<br/>- (verb 2) quá khứ đơn: swept<br/>- (verb 3) quá khứ phân từ: swept<br/>Nghĩa	       
+swell	swell<br/>- nghĩa từ: phồng,sưng<br/>- (verb 2) quá khứ đơn: swelled<br/>- (verb 3) quá khứ phân từ: swollen/swelled<br/>Nghĩa       
+swim	swim<br/>- nghĩa từ: bơi lội <br/>- (verb 2) quá khứ đơn: swam<br/>- (verb 3) quá khứ phân từ: swum<br/>Nghĩa	      
+swing	swing<br/>- nghĩa từ: đong đưa<br/>- (verb 2) quá khứ đơn: swung<br/>-(verb 3) quá khứ phân từ: swung<br/>Nghĩa	      
+take	take<br/>- nghĩa từ: cầm, lấy<br/>- (verb 2) quá khứ đơn: took<br/>- (verb 3) quá khứ phân từ: taken<br/>Nghĩa	       
+teach	teach<br/>- nghĩa từ: dạy, giảng dạy<br/>- (verb 2) quá khứ đơn: taught<br/>- (verb 3) quá khứ phân từ: tuaght<br/>Nghĩa	     
+tear	tear<br/>- nghĩa từ: xé,rách<br/>- (verb 2) quá khứ đơn: tore<br/>- (verb 3) quá khứ phân từ: torn<br/>Nghĩa	        
+telecast	telecast<br/>- nghĩa từ: phát đi bằng truyền hình<br/>- (verb 2) quá khứ đơn: telecast<br/>- (verb 3) quá khứ phân từ: telecast<br/>Nghĩa	
+tell	tell<br/>- nghĩa từ: kể, bảo<br/>- (verb 2) quá khứ đơn: told<br/>- (verb 3) quá khứ phân từ: told<br/>Nghĩa	       
+think	think<br/>- nghĩa từ: suy nghĩ <br/>- (verb 2) quá khứ đơn: thought<br/>- (verb 3) quá khứ phân từ: thought<br/>Nghĩa	      
+throw	throw<br/>- nghĩa từ: ném, liệng<br/>- (verb 2) quá khứ đơn: threw<br/>- (verb 3) quá khứ phân từ: thrown<br/>Nghĩa	        
+thrust	thrust<br/>- nghĩa từ: thọc, nhấn<br/>- (verb 2) quá khứ đơn: thrust<br/>- (verb 3) quá khứ phân từ: thurst<br/>Nghĩa 	       
+tread	tread<br/>- nghĩa từ: giẫm, đạp<br/>- (verb 2) quá khứ đơn: trod<br/>- (verb 3) quá khứ phân từ: trodden/trod<br/>Nghĩa	       
+typewrite	typewrite<br/>- nghĩa từ: đánh máy<br/>- (verb 2) quá khứ đơn: typewrote<br/>- (verb 3) quá khứ phân từ: typewritten<br/>Nghĩa 
+unbend	unbend<br/>- nghĩa từ: làm thắng lại<br/>- (verb 2) quá khứ đơn: unbent<br/>- (verb 3) quá khứ phân từ: unbent<br/>Nghĩa	       
+unbind	unbind<br/>- nghĩa từ: mở, tháo ra<br/>- (verb 2) quá khứ đơn: unbound<br/>- (verb 3) quá khứ phân từ: unbound<br/>Nghĩa	        
+unclothe	unclothe<br/>- nghĩa từ: cởi áo, lột trần<br/>- (verb 2) quá khứ đơn: unclothed/unclad<br/>- (verb 3) quá khứ phân từ: unclothed/unclad<br/>Nghĩa	
+undercut	undercut<br/>- nghĩa từ: ra giá rẻ hơn<br/>- (verb 2) quá khứ đơn: undercut<br/>- (verb 3) quá khứ phân từ: undercut<br/>Nghĩa	
+underfeed	underfeed<br/>- nghĩa từ: cho ăn đói, thiếu ăn<br/>- (verb 2) quá khứ đơn: underfed<br/>- (verb 3) quá khứ phân từ: underfed<br/>Nghĩa	
+undergo	undergo<br/>- nghĩa từ: kinh quá<br/>- (verb 2) quá khứ đơn: underwent<br/>- (verb 3) quá khứ phân từ: undergone<br/>Nghĩa	       
+underlie	inderlie<br/>- nghĩa từ: nằm dưới<br/>- (verb 2) quá khứ đơn:underlay<br/>- (verb 3) quá khứ phân từ: underlain<br/>Nghĩa	
+understand	understand<br/>- nghĩa từ: hiểu<br/>- (verb 2) quá khứ đơn: understood<br/>- (verb 3) quá khứ phân từ: understood<br/>Nghĩa 	
+undertake	undertake<br/>- nghĩa từ: đảm nhận <br/>- (verb 2) quá khứ đơn: undertook<br/>- (verb 3) quá khứ phân từ: undertaken<br/>Nghĩa	
+underwrite	underwrite<br/>-nghĩa từ: bào hiểm<br/>- (verb 2) quá khứ đơn: underwrote<br/>- (verb 3) quá khứ phân từ: underwritten<br/>Nghĩa	
+undo	undo<br/>- nghĩa từ: tháo ra<br/>- (verb 2) quá khứ đơn: undid<br/>- (verb 3) quá khứ phân từ: undone<br/>Nghĩa	       
+unfreeze	unfreeze<br/>- nghĩa từ: làm tan đông<br/>- (verb 2) quá khứ đơn: unfroze<br/>- (verb 3) quá khứ phân từ: unfrozen<br/>Nghĩa	
+unhang	unhang<br/>- nghĩa từ: hạ xuống, bỏ xuống<br/>- (verb 2) quá khứ đơn: unhung<br/>- (verb 3) quá khứ phân từ: unhung<br/>Nghĩa	      
+unhide	unhide<br/>- nghĩa từ: hiển thị, không ẩn<br/>- (verb 2) quá khứ đơn: unhid<br/>- (verb 3) quá khứ phân từ: unhidden<br/>Nghĩa	      
+unlearn	unlearn<br/>- nghĩa từ: gạt bỏ, quên<br/>- (verb 2) quá khứ đơn: unlearned/unlearnt<br/>- (verb 3) quá khứ phân từ: unlearned/unlearnt<br/>Nghĩa	       
+unspin	unspin<br/>- nghĩa từ: quay ngược<br/>- (verb 2) quá khứ đơn: unspun<br/>- (verb 3) quá khứ phân từ: unspun<br/>Nghĩa	      
+unwind	unwind<br/>- nghĩa từ: tháo ra<br/>- (verb 2) quá khứ đơn: unwound<br/>- (verb 3) quá khứ phân từ: unwound<br/>Nghĩa	       
+uphold	uphold<br/>- nghĩa từ: ủng hộ<br/>- (verb 2) quá khứ đơn: upheld<br/>- (verb 3) quá khứ phân từ: upheld<br/>Nghĩa	       
+upset	upset<br/>- nghĩa từ: đánh đổ, lật đổ<br/>- (verb 2) quá khứ đơn: upset<br/>- (verb 3) quá khứ phân từ: upset<br/>Nghĩa	        
+wake	wake<br/>- nghĩa từ: thức giấc<br/>- (verb 2) quá khứ đơn: woke/waked<br/>- (verb 3) quá khứ phân từ: woke/waken<br/>Nghĩa	       
+wear	wear<br/>- nghĩa từ: mặc<br/>- (verb 2) quá khứ đơn: wore<br/>- (verb 3) quá khứ phân từ: worn<br/>Nghĩa	        
+wed	wed<br/>- nghĩa từ: kết hôn<br/>- (verb 2) quá khứ đơn: wed/wedded<br/>- (verb 3) quá khứ phân từ: wed/wedded<br/>Nghĩa	        
+weep	weep<br/>- nghĩa từ: wept<br/>- (verb 2) quá khứ đơn: wept<br/>- (verb 2) quá khứ phân từ: wept<br/>Nghĩa        
+wet	wet<br/>- nghĩa từ: làm ướt<br/>- (verb 2) quá khứ đơn: wet/wetted<br/>- (verb 2) quá khứ phân từ: wet/wetted<br/>Nghĩa 	       
+win	win<br/>- nghĩa từ: thắng, chiến thắng<br/>- (verb 2) quá khứ đơn: won <br/>- (verb 3) quá khứ phân từ: won <br/>Nghĩa	        
+wind	wind<br/>- nghĩa từ: quấn<br/>- (verb 2) quá khứ đơn: wound<br/>- (verb 3) quá khứ phân từ: wound<br/>Nghĩa	      
+withdraw	withdraw<br/>- nghĩa từ: rút lui (verb 2) quá khứ đơn: withdrew<br/>- (verb 3) quá khứ phân từ: withdrawn<br/>Nghĩa	                  
+withhold	withhold<br/>- nghĩa từ: từ khước (verb 2) quá khứ đơn: withheld<br/>- (verb 3) quá khứ phân từ: withheld<br/>Nghĩa		
+withstand	withstand<br/>- nghĩa từ: cầm cự (verb 2) quá khứ đơn: withstood<br/>- (verb 3) quá khứ phân từ: withstood<br/>Nghĩa	
+work	work<br/>- nghĩa từ: rèn, nhào nặn đất<br/>- (verb 2) quá khứ đơn: worked<br/>- (verb 3) quá khứ phân từ: worked<br/>Nghĩa	      
+wring	wring<br/>- nghĩa từ: vặn, siết chặt<br/>- (verb 2) quá khứ đơn: wrung<br/>- (verb 3) quá khứ phân từ: wrung<br/>Nghĩa	        
+write	write<br/>- nghĩa từ: viết<br/>- (verb 2) quá khứ đơn: wrote<br/>- (verb 3) quá khứ phân từ: written<br/>Nghĩa	                         
 
 
