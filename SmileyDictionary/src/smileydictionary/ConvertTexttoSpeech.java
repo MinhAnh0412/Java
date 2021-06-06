@@ -9,6 +9,7 @@ import java.io.*;
 import com.sun.speech.freetts.Voice;
 import com.sun.speech.freetts.VoiceManager;
 import java.util.Locale;
+import javax.swing.JOptionPane;
 
 
 /**
@@ -127,31 +128,22 @@ public class ConvertTexttoSpeech extends javax.swing.JFrame {
         this.dispose();
     }//GEN-LAST:event_backBtnActionPerformed
     
-    private static final String VOICE = "kelvin16k";
+    
     
     private void SpeakbtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SpeakbtnActionPerformed
         // TODO add your handling code here:
+        System.setProperty("mbrola.base","C:\\Users\\User\\Downloads\\freetts-1.2\\mbrola");
         Voice v;
         VoiceManager vm = VoiceManager.getInstance();
-        v = vm.getVoice(VOICE);
-        
+        v = vm.getVoice("mbrola_us1");
         v.allocate();
-        try{
-            v.speak(jTextArea1.getText());
-        }catch(Exception e){
-            
-        }
+        v.speak(jTextArea1.getText());
     }//GEN-LAST:event_SpeakbtnActionPerformed
 
     /**
      * @param args the command line arguments
      */
     public static void main(String args[]) {
-        /* Set the Nimbus look and feel */
-        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
-        /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
-         * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
-         */
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
                 if ("Nimbus".equals(info.getName())) {
